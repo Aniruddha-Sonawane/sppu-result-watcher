@@ -2,7 +2,7 @@ name: SPPU Result Watcher
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Restore result cache
+        uses: actions/cache@v4
+        with:
+          path: known_results.json
+          key: sppu-results-cache
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,3 +32,9 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python sppu_result_watcher.py
+
+      - name: Save result cache
+        uses: actions/cache@v4
+        with:
+          path: known_results.json
+          key: sppu-results-cache
