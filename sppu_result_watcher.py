@@ -94,7 +94,7 @@ def main():
         return
 
     # ---------- MESSAGE ----------
-    msg = "📢 *SPPU RESULTS CHANGED*\n\n"
+    msg = "📢 *SPPU RESULTS UPDATED*\n\n"
 
     if added:
         msg += "🆕 *Results Added:*\n"
