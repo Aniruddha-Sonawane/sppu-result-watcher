@@ -39,3 +39,11 @@ jobs:
         with:
           path: known_results.json
           key: sppu-results-cache
+
+      - name: Commit updated results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add known_results.json
+          git commit -m "Update known results" || echo "No changes"
+          git push
