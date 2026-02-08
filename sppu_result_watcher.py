@@ -6,12 +6,14 @@ import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-URL = "https://aniruddha-sonawane.github.io/SPPU-Result-Clone/"
+URL = "https://onlineresults.unipune.ac.in/SPPU"
 DATA_FILE = "known_results.json"
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
+
+# -------------------- SCRAPER --------------------
 
 def fetch_results():
     r = requests.get(URL, timeout=20, verify=False)
@@ -31,6 +33,8 @@ def fetch_results():
     return results
 
 
+# -------------------- STORAGE --------------------
+
 def load_old():
     if not os.path.exists(DATA_FILE):
         return None
@@ -43,74 +47,70 @@ def save_current(data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def send_telegram(message):
+# -------------------- TELEGRAM --------------------
+
+def send_telegram(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     requests.post(url, json={
         "chat_id": CHAT_ID,
-        "text": message,
+        "text": text,
         "disable_web_page_preview": True
     })
 
+
+def send_long_message(text):
+    MAX = 4000  # Telegram hard limit is 4096
+    for i in range(0, len(text), MAX):
+        send_telegram(text[i:i + MAX])
+
+
+# -------------------- MAIN LOGIC --------------------
 
 def main():
     current = fetch_results()
     old = load_old()
 
-    # FIRST RUN: no file → send everything
+    current_set = {(r["course"], r["date"]) for r in current}
+
+    # ---------- FIRST RUN ----------
     if old is None:
-        msg = "📢 *SPPU RESULTS INITIAL SNAPSHOT*\n\n"
+        msg = "📢 *SPPU RESULTS – INITIAL SNAPSHOT*\n\n"
         for r in current:
             msg += f"• {r['course']}\n  {r['date']}\n\n"
-
         msg += "🔗 https://onlineresults.unipune.ac.in/SPPU"
-        send_telegram(msg)
+
+        send_long_message(msg)
         save_current(current)
         return
 
-    # Build sets and maps
+    # ---------- DIFF LOGIC ----------
     old_set = {(r["course"], r["date"]) for r in old}
-    new_set = {(r["course"], r["date"]) for r in current}
 
-    old_course_map = {r["course"]: r["date"] for r in old}
-    new_course_map = {r["course"]: r["date"] for r in current}
+    added = current_set - old_set
+    removed = old_set - current_set
 
-    added = new_set - old_set
-    deleted = old_set - new_set
-
-    updated = []
-    for course in old_course_map:
-        if course in new_course_map:
-            if old_course_map[course] != new_course_map[course]:
-                updated.append((course, old_course_map[course], new_course_map[course]))
-
-    if not added and not deleted and not updated:
+    if not added and not removed:
         save_current(current)
         return
 
-    # Build message
-    msg = "📢 *SPPU RESULTS UPDATED*\n\n"
+    # ---------- MESSAGE ----------
+    msg = "📢 *SPPU RESULTS CHANGED*\n\n"
 
     if added:
-        msg += "🆕 *New Results Added:*\n"
+        msg += "🆕 *Results Added:*\n"
         for course, date in added:
             msg += f"• {course}\n  {date}\n"
         msg += "\n"
 
-    if updated:
-        msg += "✏️ *Results Updated:*\n"
-        for course, old_d, new_d in updated:
-            msg += f"• {course}\n  {old_d} → {new_d}\n"
-        msg += "\n"
-
-    if deleted:
+    if removed:
         msg += "❌ *Results Removed:*\n"
-        for course, date in deleted:
+        for course, date in removed:
             msg += f"• {course}\n  {date}\n"
         msg += "\n"
 
     msg += "🔗 https://onlineresults.unipune.ac.in/SPPU"
 
-    send_telegram(msg)
+    send_long_message(msg)
     save_current(current)
 
 
