@@ -1,7 +1,7 @@
 name: SPPU Result Watcher
 
 permissions:
-  contents: write   # 👈 THIS FIXES THE 403
+  contents: write
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  check:
+  run:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,16 +21,16 @@ jobs:
 
       - run: pip install requests beautifulsoup4
 
-      - name: Run watcher
+      - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: python -u sppu_result_watcher.py
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+        run: python sppu_result_watcher.py
 
-      - name: Commit updated results
+      - name: Commit state
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add known_results.json
-          git commit -m "Update known results" || echo "No changes"
+          git add *.json
+          git commit -m "Update bot state" || echo "No changes"
           git push
