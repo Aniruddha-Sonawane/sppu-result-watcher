@@ -78,7 +78,27 @@ def tg_get_member(chat_id):
 
 # -------------------- /start STATUS HANDLER --------------------
 
-def process_start_commands(subscribers, offset_state):
+def is_channel_match(chat):
+    if not chat:
+        return False
+    channel_id = str(CHANNEL_ID)
+    chat_id = str(chat.get("id"))
+    if channel_id == chat_id:
+        return True
+    if channel_id.startswith("@"):
+        return channel_id[1:] == (chat.get("username") or "")
+    return False
+
+def add_subscriber(subscribers, chat_id, username):
+    if chat_id in subscribers:
+        return False
+    subscribers[chat_id] = {
+        "username": username or "unknown",
+        "joined_at": datetime.utcnow().isoformat()
+    }
+    return True
+
+def process_updates(subscribers, offset_state):
     last_offset = offset_state.get("last_update_id", 0)
     updates = tg_get_updates(last_offset + 1)
 
@@ -86,34 +106,53 @@ def process_start_commands(subscribers, offset_state):
         offset_state["last_update_id"] = u["update_id"]
 
         msg = u.get("message")
-        if not msg or not msg.get("text", "").strip().startswith("/start"):
-            continue
+        if msg and msg.get("text", "").strip().startswith("/start"):
+            chat_id = str(msg["chat"]["id"])
+            channel_safe = md_escape(CHANNEL_ID)
 
-        chat_id = str(msg["chat"]["id"])
-        channel_safe = md_escape(CHANNEL_ID)
+            try:
+                status = tg_get_member(chat_id)
+            except Exception:
+                status = "left"
 
-        try:
-            status = tg_get_member(chat_id)
-        except Exception:
-            status = "left"
+            if status in ("member", "administrator", "creator"):
+                added = add_subscriber(
+                    subscribers,
+                    chat_id,
+                    msg["from"].get("username")
+                )
+                if added:
+                    send_long_message(
+                        chat_id,
+                        "✅ *Access granted.* You will now receive SPPU result updates."
+                    )
+                else:
+                    send_long_message(
+                        chat_id,
+                        "✅ *Access granted.* You already have access."
+                    )
+            else:
+                send_long_message(
+                    chat_id,
+                    "👋 *Welcome!*\n\n"
+                    "To get *SPPU result updates*, please join the official channel:\n\n"
+                    f"{channel_safe}\n\n"
+                    "Access will be granted automatically."
+                )
 
-        if status in ("member", "administrator", "creator"):
-            subscribers.setdefault(chat_id, {
-                "username": msg["from"].get("username", "unknown"),
-                "joined_at": datetime.utcnow().isoformat()
-            })
-            send_long_message(
-                chat_id,
-                "✅ *Access granted.* You will now receive SPPU result updates."
-            )
-        else:
-            send_long_message(
-                chat_id,
-                "👋 *Welcome!*\n\n"
-                "To get *SPPU result updates*, please join the official channel:\n\n"
-                f"{channel_safe}\n\n"
-                "Access will be granted automatically."
-            )
+        chat_member = u.get("chat_member")
+        if chat_member and is_channel_match(chat_member.get("chat")):
+            new_member = chat_member.get("new_chat_member", {})
+            user = new_member.get("user", {})
+            status = new_member.get("status")
+            if status in ("member", "administrator", "creator"):
+                chat_id = str(user.get("id"))
+                added = add_subscriber(subscribers, chat_id, user.get("username"))
+                if added:
+                    send_long_message(
+                        chat_id,
+                        "✅ *Access granted.* You will now receive SPPU result updates."
+                    )
 
 # -------------------- MEMBERSHIP VERIFICATION --------------------
 
@@ -194,7 +233,7 @@ def main():
     old_results = load_json(RESULTS_FILE, None)
     offset_state = load_json(OFFSET_FILE, {"last_update_id": 0})
 
-    process_start_commands(subscribers, offset_state)
+    process_updates(subscribers, offset_state)
     verify_subscribers(subscribers)
 
     current_results = fetch_results()
