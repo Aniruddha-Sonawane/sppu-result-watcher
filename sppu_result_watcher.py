@@ -6,7 +6,7 @@ import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-URL = "https://onlineresults.unipune.ac.in/SPPU"
+URL = "https://aniruddha-sonawane.github.io/SPPU-Result-Clone/"
 DATA_FILE = "known_results.json"
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
