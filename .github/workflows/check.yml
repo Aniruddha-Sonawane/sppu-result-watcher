@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Restore result cache
@@ -19,7 +19,7 @@ jobs:
           path: known_results.json
           key: sppu-results-cache
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
