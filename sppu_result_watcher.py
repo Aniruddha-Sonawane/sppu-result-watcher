@@ -17,10 +17,13 @@ URL = "https://onlineresults.unipune.ac.in/SPPU"
 BUFFER_FILE = "users_buffer.json"
 SUBSCRIBERS_FILE = "subscribers.json"
 RESULTS_FILE = "known_results.json"
+OFFSET_FILE = "tg_offset.json"
 
 TG_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
-# -------------------- UTILS --------------------
+MAX_MSG = 4000  # Telegram hard limit
+
+# -------------------- JSON UTILS --------------------
 
 def load_json(path, default):
     if not os.path.exists(path):
@@ -32,18 +35,25 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
+# -------------------- TELEGRAM --------------------
+
 def tg_send(chat_id, text):
     requests.post(f"{TG_API}/sendMessage", json={
         "chat_id": chat_id,
         "text": text,
+        "parse_mode": "Markdown",
         "disable_web_page_preview": True
     })
 
-def tg_get_updates(offset=None):
-    params = {"timeout": 0}
-    if offset:
-        params["offset"] = offset
-    r = requests.get(f"{TG_API}/getUpdates", params=params)
+def send_long_message(chat_id, text):
+    for i in range(0, len(text), MAX_MSG):
+        tg_send(chat_id, text[i:i + MAX_MSG])
+
+def tg_get_updates(offset):
+    r = requests.get(f"{TG_API}/getUpdates", params={
+        "timeout": 0,
+        "offset": offset
+    })
     r.raise_for_status()
     return r.json()["result"]
 
@@ -55,56 +65,47 @@ def tg_get_member(chat_id):
     r.raise_for_status()
     return r.json()["result"]["status"]
 
-# -------------------- STEP 1: HANDLE /start --------------------
+# -------------------- /start STATUS HANDLER --------------------
 
-def process_start_commands(buffer):
-    updates = tg_get_updates()
+def process_start_commands(subscribers, offset_state):
+    last_offset = offset_state.get("last_update_id", 0)
+    updates = tg_get_updates(last_offset + 1)
+
     for u in updates:
-        msg = u.get("message")
-        if not msg:
-            continue
+        offset_state["last_update_id"] = u["update_id"]
 
-        text = msg.get("text", "")
-        if text.strip() != "/start":
+        msg = u.get("message")
+        if not msg or msg.get("text", "").strip() != "/start":
             continue
 
         chat_id = str(msg["chat"]["id"])
-        username = msg["from"].get("username", "unknown")
 
-        if chat_id in buffer:
-            continue
-
-        buffer[chat_id] = {
-            "username": username,
-            "requested_at": datetime.utcnow().isoformat()
-        }
-
-        tg_send(chat_id,
-            "👋 Welcome!\n\n"
-            "To get SPPU result updates, please join the official channel:\n\n"
-            f"{CHANNEL_ID}\n\n"
-            "Access will be granted automatically."
-        )
-
-# -------------------- STEP 2: VERIFY MEMBERSHIP --------------------
-
-def verify_users(buffer, subscribers):
-    # Check buffer → subscribers
-    for chat_id in list(buffer.keys()):
         try:
             status = tg_get_member(chat_id)
         except Exception:
-            continue
+            status = "left"
 
         if status in ("member", "administrator", "creator"):
-            subscribers[chat_id] = {
-                "username": buffer[chat_id]["username"],
+            subscribers.setdefault(chat_id, {
+                "username": msg["from"].get("username", "unknown"),
                 "joined_at": datetime.utcnow().isoformat()
-            }
-            tg_send(chat_id, "✅ Access granted. You will now receive SPPU result updates.")
-            del buffer[chat_id]
+            })
+            send_long_message(
+                chat_id,
+                "✅ *Access granted.* You will now receive SPPU result updates."
+            )
+        else:
+            send_long_message(
+                chat_id,
+                "👋 *Welcome!*\n\n"
+                "To get *SPPU result updates*, please join the official channel:\n\n"
+                f"{CHANNEL_ID}\n\n"
+                "Access will be granted automatically."
+            )
 
-    # Check subscribers → revoke
+# -------------------- MEMBERSHIP VERIFICATION --------------------
+
+def verify_subscribers(subscribers):
     for chat_id in list(subscribers.keys()):
         try:
             status = tg_get_member(chat_id)
@@ -112,10 +113,10 @@ def verify_users(buffer, subscribers):
             continue
 
         if status in ("left", "kicked"):
-            tg_send(chat_id, "❌ You left the channel. Access revoked.")
+            send_long_message(chat_id, "❌ You left the channel. Access revoked.")
             del subscribers[chat_id]
 
-# -------------------- STEP 3: SCRAPE RESULTS --------------------
+# -------------------- SCRAPER --------------------
 
 def fetch_results():
     r = requests.get(URL, timeout=20, verify=False)
@@ -134,11 +135,14 @@ def fetch_results():
             })
     return results
 
-# -------------------- STEP 4: SEND UPDATES --------------------
+# -------------------- DIFF MESSAGES ONLY --------------------
 
-def send_updates(subscribers, current, old):
+def send_diffs(subscribers, current, old):
+    if not old:
+        return
+
     current_set = {(r["course"], r["date"]) for r in current}
-    old_set = {(r["course"], r["date"]) for r in old} if old else set()
+    old_set = {(r["course"], r["date"]) for r in old}
 
     added = current_set - old_set
     removed = old_set - current_set
@@ -149,13 +153,13 @@ def send_updates(subscribers, current, old):
     msg = "📢 *SPPU RESULTS UPDATED*\n\n"
 
     if added:
-        msg += "🆕 Results Added:\n"
+        msg += "🆕 *Added:*\n"
         for c, d in added:
             msg += f"• {c}\n  {d}\n"
         msg += "\n"
 
     if removed:
-        msg += "❌ Results Removed:\n"
+        msg += "❌ *Removed:*\n"
         for c, d in removed:
             msg += f"• {c}\n  {d}\n"
         msg += "\n"
@@ -163,24 +167,24 @@ def send_updates(subscribers, current, old):
     msg += "🔗 https://onlineresults.unipune.ac.in/SPPU"
 
     for chat_id in subscribers:
-        tg_send(chat_id, msg)
+        send_long_message(chat_id, msg)
 
 # -------------------- MAIN --------------------
 
 def main():
-    buffer = load_json(BUFFER_FILE, {})
     subscribers = load_json(SUBSCRIBERS_FILE, {})
     old_results = load_json(RESULTS_FILE, None)
+    offset_state = load_json(OFFSET_FILE, {"last_update_id": 0})
 
-    process_start_commands(buffer)
-    verify_users(buffer, subscribers)
+    process_start_commands(subscribers, offset_state)
+    verify_subscribers(subscribers)
 
     current_results = fetch_results()
-    send_updates(subscribers, current_results, old_results)
+    send_diffs(subscribers, current_results, old_results)
 
-    save_json(BUFFER_FILE, buffer)
     save_json(SUBSCRIBERS_FILE, subscribers)
     save_json(RESULTS_FILE, current_results)
+    save_json(OFFSET_FILE, offset_state)
 
 if __name__ == "__main__":
     main()
