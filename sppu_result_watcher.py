@@ -9,7 +9,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 URL = "https://onlineresults.unipune.ac.in/SPPU"
 DATA_FILE = "known_results.json"
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = os.environ["BOT_TOKEN"] 
 CHAT_ID = os.environ["CHAT_ID"]
 
 
