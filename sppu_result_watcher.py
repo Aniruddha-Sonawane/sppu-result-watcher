@@ -56,9 +56,12 @@ def main():
     current = fetch_results()
     old = load_old()
 
+    # 🚫 First run guard
     if not old:
+        print("Baseline created. No alerts sent.")
         save_current(current)
         return
+
 
     old_set = {(r["course"], r["date"]) for r in old}
     new_items = [
