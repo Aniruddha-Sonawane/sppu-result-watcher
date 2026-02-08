@@ -13,11 +13,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Restore result cache
-        uses: actions/cache@v4
-        with:
-          path: known_results.json
-          key: sppu-results-cache
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,11 +29,6 @@ jobs:
         run: python -u sppu_result_watcher.py
 
 
-      - name: Save result cache
-        uses: actions/cache@v4
-        with:
-          path: known_results.json
-          key: sppu-results-cache
 
       - name: Commit updated results
         run: |
