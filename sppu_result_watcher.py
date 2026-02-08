@@ -35,6 +35,17 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
+# -------------------- MARKDOWN HELPERS --------------------
+
+def md_escape(text):
+    return (
+        text.replace("\\", "\\\\")
+        .replace("_", "\\_")
+        .replace("*", "\\*")
+        .replace("[", "\\[")
+        .replace("`", "\\`")
+    )
+
 # -------------------- TELEGRAM --------------------
 
 def tg_send(chat_id, text):
@@ -75,10 +86,11 @@ def process_start_commands(subscribers, offset_state):
         offset_state["last_update_id"] = u["update_id"]
 
         msg = u.get("message")
-        if not msg or msg.get("text", "").strip() != "/start":
+        if not msg or not msg.get("text", "").strip().startswith("/start"):
             continue
 
         chat_id = str(msg["chat"]["id"])
+        channel_safe = md_escape(CHANNEL_ID)
 
         try:
             status = tg_get_member(chat_id)
@@ -99,7 +111,7 @@ def process_start_commands(subscribers, offset_state):
                 chat_id,
                 "👋 *Welcome!*\n\n"
                 "To get *SPPU result updates*, please join the official channel:\n\n"
-                f"{CHANNEL_ID}\n\n"
+                f"{channel_safe}\n\n"
                 "Access will be granted automatically."
             )
 
@@ -117,7 +129,7 @@ def verify_subscribers(subscribers):
                 chat_id,
                 "❌ *Access revoked.* You left the channel.\n\n"
                 "To regain access, please join the official channel:\n\n"
-                f"{CHANNEL_ID}\n\n"
+                f"{md_escape(CHANNEL_ID)}\n\n"
                 "Then send /start again."
             )
             del subscribers[chat_id]
