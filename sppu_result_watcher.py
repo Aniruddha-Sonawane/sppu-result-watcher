@@ -113,7 +113,13 @@ def verify_subscribers(subscribers):
             continue
 
         if status in ("left", "kicked"):
-            send_long_message(chat_id, "❌ You left the channel. Access revoked.")
+            send_long_message(
+                chat_id,
+                "❌ *Access revoked.* You left the channel.\n\n"
+                "To regain access, please join the official channel:\n\n"
+                f"{CHANNEL_ID}\n\n"
+                "Then send /start again."
+            )
             del subscribers[chat_id]
 
 # -------------------- SCRAPER --------------------
