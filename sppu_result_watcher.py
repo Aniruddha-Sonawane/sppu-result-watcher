@@ -2,8 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import urllib3
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+# Suppress only the insecure SSL warning (safe for public scraping)
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 URL = "https://onlineresults.unipune.ac.in/SPPU"
 DATA_FILE = "known_results.json"
@@ -29,8 +33,11 @@ def create_session():
     session.mount("https://", adapter)
 
     session.headers.update({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0 Safari/537.36"
+        )
     })
 
     return session
@@ -43,7 +50,11 @@ session = create_session()
 
 def fetch_results():
     try:
-        r = session.get(URL, timeout=(10, 60))
+        r = session.get(
+            URL,
+            timeout=(10, 60),
+            verify=False   # Required due to broken SSL chain on SPPU server
+        )
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
         print("⚠ Fetch failed:", e)
@@ -103,7 +114,7 @@ def send_telegram(text):
 
 
 def send_long_message(text):
-    MAX = 4000
+    MAX = 4000  # Telegram hard limit is 4096
     for i in range(0, len(text), MAX):
         send_telegram(text[i:i + MAX])
 
