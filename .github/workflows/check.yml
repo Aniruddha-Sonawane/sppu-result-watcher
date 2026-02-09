@@ -8,18 +8,27 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: sppu-result-watcher
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests beautifulsoup4
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
 
       - name: Run watcher
         env:
@@ -27,10 +36,15 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python -u sppu_result_watcher.py
 
-      - name: Commit updated results
+      - name: Commit updated results (only if changed)
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add known_results.json
-          git commit -m "Update known results" || echo "No changes"
-          git push
+          if [ -n "$(git status --porcelain known_results.json)" ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add known_results.json
+            git commit -m "Update known results"
+            git pull --rebase
+            git push
+          else
+            echo "No changes to commit"
+          fi
