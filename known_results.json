@@ -144,11 +144,11 @@
     "date": "30- January- 2026"
   },
   {
-    "course": "First Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Winter Session 2025",
+    "course": "First Year BACHELOR OF ARTS(2019 PATTERN) Winter Session 2025",
     "date": "30- January- 2026"
   },
   {
-    "course": "First Year BACHELOR OF ARTS(2019 PATTERN) Winter Session 2025",
+    "course": "First Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Winter Session 2025",
     "date": "30- January- 2026"
   },
   {
@@ -336,14 +336,6 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "First Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
     "course": "First Year M.B.A.(Service Management) Winter Session 2025",
     "date": "12- January- 2026"
   },
@@ -360,7 +352,11 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
+    "course": "First Year M.B.A.(Digital Marketing) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
     "date": "12- January- 2026"
   },
   {
@@ -369,6 +365,10 @@
   },
   {
     "course": "Second Year M.B.A.(Fintech) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
   {
@@ -548,11 +548,11 @@
     "date": "30- June- 2025"
   },
   {
-    "course": "MBA (Project Management) (2024 Pattern(NEP 2020)) April-2025",
+    "course": "MBA (Digital Marketing) (2024 Pattern(NEP 2020)) April-2025",
     "date": "30- June- 2025"
   },
   {
-    "course": "MBA (Digital Marketing) (2024 Pattern(NEP 2020)) April-2025",
+    "course": "MBA (Project Management) (2024 Pattern(NEP 2020)) April-2025",
     "date": "30- June- 2025"
   },
   {
@@ -588,15 +588,15 @@
     "date": "26- June- 2025"
   },
   {
-    "course": "First Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) April-2025",
+    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
     "date": "25- June- 2025"
   },
   {
-    "course": "Second Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) April-2025",
+    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
     "date": "25- June- 2025"
   },
   {
-    "course": "M.Sc. PHYSICAL CHEMISTRY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "course": "M.Sc. INORGANIC CHEMISTRY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "25- June- 2025"
   },
   {
@@ -620,23 +620,23 @@
     "date": "25- June- 2025"
   },
   {
-    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
-    "date": "25- June- 2025"
-  },
-  {
-    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
-    "date": "25- June- 2025"
-  },
-  {
-    "course": "M.Sc. INORGANIC CHEMISTRY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "25- June- 2025"
-  },
-  {
     "course": "First Year M.Sc.BIO-CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
     "date": "25- June- 2025"
   },
   {
     "course": "Second Year M.Sc.BIO-CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
+    "date": "25- June- 2025"
+  },
+  {
+    "course": "First Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) April-2025",
+    "date": "25- June- 2025"
+  },
+  {
+    "course": "Second Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) April-2025",
+    "date": "25- June- 2025"
+  },
+  {
+    "course": "M.Sc. PHYSICAL CHEMISTRY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "25- June- 2025"
   },
   {
@@ -696,6 +696,10 @@
     "date": "23- June- 2025"
   },
   {
+    "course": "M.Sc. ORGANIC CHEMISTRY - APRIL 2025",
+    "date": "23- June- 2025"
+  },
+  {
     "course": "M.Sc. MATHEMATICS - APRIL 2025",
     "date": "23- June- 2025"
   },
@@ -740,10 +744,6 @@
     "date": "23- June- 2025"
   },
   {
-    "course": "M.Sc. ORGANIC CHEMISTRY - APRIL 2025",
-    "date": "23- June- 2025"
-  },
-  {
     "course": "M.Sc. ANALYTICAL CHEMISTRY (PATTERN 2019) - APRIL 2025",
     "date": "21- June- 2025"
   },
@@ -761,10 +761,6 @@
   },
   {
     "course": "M.Sc. BIO-CHEMISTRY (PATTERN 2019) - APRIL 2025",
-    "date": "20- June- 2025"
-  },
-  {
-    "course": "M.Sc. ORGANIC CHEMISTRY (PATTERN 2019) - APRIL 2025",
     "date": "20- June- 2025"
   },
   {
@@ -852,6 +848,10 @@
     "date": "20- June- 2025"
   },
   {
+    "course": "M.Sc. ORGANIC CHEMISTRY (PATTERN 2019) - APRIL 2025",
+    "date": "20- June- 2025"
+  },
+  {
     "course": "B.Sc.  (2013) EXAM.- APRIL 2025",
     "date": "20- June- 2025"
   },
@@ -904,11 +904,7 @@
     "date": "14- June- 2025"
   },
   {
-    "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) April-2025",
+    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
   {
@@ -920,7 +916,11 @@
     "date": "14- June- 2025"
   },
   {
-    "course": "M.Sc. BOTANY (PATTERN 2019) - APRIL 2025",
+    "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) April-2025",
+    "date": "14- June- 2025"
+  },
+  {
+    "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
   {
@@ -932,12 +932,8 @@
     "date": "14- June- 2025"
   },
   {
-    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
+    "course": "M.Sc. BOTANY (PATTERN 2019) - APRIL 2025",
     "date": "14- June- 2025"
-  },
-  {
-    "course": "BACHELOR OF SCIENCE (CYBER & DIGITAL SCIENCE) - APRIL 2025",
-    "date": "13- June- 2025"
   },
   {
     "course": "BACHELOR OF COMPUTER APPLICATIONS (REV.2013) EXAM.- APRIL 2025",
@@ -945,10 +941,6 @@
   },
   {
     "course": "BACHELOR OF BUSINESS ADMINISTRATION (COMPUTER APPLICATION) (2016 Pattern) EXAM.- APRIL2025",
-    "date": "13- June- 2025"
-  },
-  {
-    "course": "BACHELOR OF SCIENCE (BIOTECHNOLOGY) (REV.2019) - APRIL 2025",
     "date": "13- June- 2025"
   },
   {
@@ -962,6 +954,18 @@
   {
     "course": "M.Sc. ENVIRONMENTAL SCIENCE (PATTERN 2019) - APRIL 2025",
     "date": "10- June- 2025"
+  },
+  {
+    "course": "SECOND YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - APRIL 2025",
+    "date": "02- June- 2025"
+  },
+  {
+    "course": "THIRD (FINAL) YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - APRIL 2025",
+    "date": "02- June- 2025"
+  },
+  {
+    "course": "LLB (2017-2023 MIXED PATTERN)- APRIL 2025",
+    "date": "02- June- 2025"
   },
   {
     "course": "SECOND YEAR OF B.A.LL.B.(Rev.2017) - APRIL 2025",
@@ -981,18 +985,6 @@
   },
   {
     "course": "B.A.LL.B (2017-2023 MIXED PATTERN)- APRIL 2025",
-    "date": "02- June- 2025"
-  },
-  {
-    "course": "SECOND YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - APRIL 2025",
-    "date": "02- June- 2025"
-  },
-  {
-    "course": "THIRD (FINAL) YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - APRIL 2025",
-    "date": "02- June- 2025"
-  },
-  {
-    "course": "LLB (2017-2023 MIXED PATTERN)- APRIL 2025",
     "date": "02- June- 2025"
   },
   {
@@ -1020,15 +1012,15 @@
     "date": "24- May- 2025"
   },
   {
+    "course": "FIRST YEAR BACHELOR OF COMMERCE (2024 Pattern(NEP 2020)) April-2025",
+    "date": "24- May- 2025"
+  },
+  {
     "course": "FIRST YEAR BACHELOR OF SCIENCE (BIOTECHNOLOGY) (2024 Pattern (NEP 2020)) April-2025",
     "date": "24- May- 2025"
   },
   {
     "course": "FIRST YEAR BACHELOR OF ARTS (2024 Pattern(NEP 2020)) Apr-2025",
-    "date": "24- May- 2025"
-  },
-  {
-    "course": "FIRST YEAR BACHELOR OF COMMERCE (2024 Pattern(NEP 2020)) April-2025",
     "date": "24- May- 2025"
   },
   {
@@ -1045,6 +1037,14 @@
   },
   {
     "course": "FIRST YEAR BACHELOR OF SCIENCE (HOSPITALITY STUDIES) (2024 Pattern (NEP 2020)) April-2025",
+    "date": "24- May- 2025"
+  },
+  {
+    "course": "PGDCM(2022 Pattern) April-2025",
+    "date": "24- May- 2025"
+  },
+  {
+    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) April-2025",
     "date": "24- May- 2025"
   },
   {
@@ -1073,14 +1073,6 @@
   },
   {
     "course": "DIPLOMA IN TAXATION LAW REV. 2018  APRIL 2025",
-    "date": "24- May- 2025"
-  },
-  {
-    "course": "PGDCM(2022 Pattern) April-2025",
-    "date": "24- May- 2025"
-  },
-  {
-    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) April-2025",
     "date": "24- May- 2025"
   }
 ]
