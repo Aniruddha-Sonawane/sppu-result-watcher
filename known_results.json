@@ -380,22 +380,6 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "M.E. Second Year (2017 Pattern) Winter Session-2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
     "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025",
     "date": "12- January- 2026"
   },
@@ -433,6 +417,22 @@
   },
   {
     "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "M.E. Second Year (2017 Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
   {
@@ -925,14 +925,6 @@
   },
   {
     "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
   {
