@@ -380,15 +380,7 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "M.E. Second Year (2017 Pattern) Winter Session-2025",
+    "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
   {
@@ -397,6 +389,14 @@
   },
   {
     "course": "Second Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "M.E. Second Year (2017 Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
   {
@@ -432,7 +432,7 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
+    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025",
     "date": "12- January- 2026"
   },
   {
@@ -490,10 +490,6 @@
   {
     "course": "B.A.  (2013) EXAM.- EXTERNAL APRIL 2025",
     "date": "12- July- 2025"
-  },
-  {
-    "course": "FIRST YEAR BACHELOR OF COMPUTER APPLICATIONS (SCIENCE) ((2024 PATTERN (NEP 2020))) APRIL-2025",
-    "date": "10- July- 2025"
   },
   {
     "course": "B.E.(2015 CREDIT PAT.) APR-MAY 2025",
@@ -908,10 +904,6 @@
     "date": "14- June- 2025"
   },
   {
-    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
     "course": "M.Sc. BIOTECHNOLOGY - APRIL 2025",
     "date": "14- June- 2025"
   },
@@ -925,6 +917,10 @@
   },
   {
     "course": "M.A. GEOGRAPHY - APRIL 2025",
+    "date": "14- June- 2025"
+  },
+  {
+    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
   {
@@ -1029,10 +1025,6 @@
   },
   {
     "course": "FIRST YEAR BACHELOR OF SCIENCE (HOSPITALITY STUDIES) (2024 Pattern (NEP 2020)) April-2025",
-    "date": "24- May- 2025"
-  },
-  {
-    "course": "FIRST YEAR BACHELOR OF SCIENCE (CYBER & DIGITAL SCIENCE) (2024 Pattern (NEP 2020)) April-2025",
     "date": "24- May- 2025"
   },
   {
