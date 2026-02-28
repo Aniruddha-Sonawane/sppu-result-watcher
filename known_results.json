@@ -484,22 +484,6 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "First Year M.B.A.(Service Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Service Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year M.B.A.(Project Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
     "course": "First year M.B.A.(Fintech) Winter Session 2025",
     "date": "12- January- 2026"
   },
@@ -513,6 +497,22 @@
   },
   {
     "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year M.B.A.(Service Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Service Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year M.B.A.(Project Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
     "date": "12- January- 2026"
   },
   {
@@ -728,14 +728,6 @@
     "date": "25- June- 2025"
   },
   {
-    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
-    "date": "25- June- 2025"
-  },
-  {
-    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
-    "date": "25- June- 2025"
-  },
-  {
     "course": "M.Sc. INORGANIC CHEMISTRY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "25- June- 2025"
   },
@@ -776,10 +768,6 @@
     "date": "24- June- 2025"
   },
   {
-    "course": "M.Sc. BIOTECHNOLOGY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "24- June- 2025"
-  },
-  {
     "course": "First Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) April-2025",
     "date": "24- June- 2025"
   },
@@ -789,6 +777,10 @@
   },
   {
     "course": "MA/M.Sc. GEOGRAPHY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "date": "24- June- 2025"
+  },
+  {
+    "course": "M.Sc. BIOTECHNOLOGY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "24- June- 2025"
   },
   {
@@ -804,6 +796,14 @@
     "date": "23- June- 2025"
   },
   {
+    "course": "M.Sc. BOTANY - APRIL 2025",
+    "date": "23- June- 2025"
+  },
+  {
+    "course": "M.Sc. ORGANIC CHEMISTRY - APRIL 2025",
+    "date": "23- June- 2025"
+  },
+  {
     "course": "First Year M.Sc. PHYSICS(2023 PATTERN (NEP 2020)) April-2025",
     "date": "23- June- 2025"
   },
@@ -813,14 +813,6 @@
   },
   {
     "course": "M.Sc. PHYSICS[(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "23- June- 2025"
-  },
-  {
-    "course": "M.Sc. ORGANIC CHEMISTRY - APRIL 2025",
-    "date": "23- June- 2025"
-  },
-  {
-    "course": "M.Sc. BOTANY - APRIL 2025",
     "date": "23- June- 2025"
   },
   {
@@ -864,6 +856,18 @@
     "date": "20- June- 2025"
   },
   {
+    "course": "M.Sc. ORGANIC CHEMISTRY (PATTERN 2019) - APRIL 2025",
+    "date": "20- June- 2025"
+  },
+  {
+    "course": "M.Sc. DRUG CHEMISTRY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "date": "20- June- 2025"
+  },
+  {
+    "course": "M.Sc. ELECTRONICS [(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "date": "20- June- 2025"
+  },
+  {
     "course": "First Year M.Sc. BOTANY(2023 Pattern (NEP 2020)) April-2025",
     "date": "20- June- 2025"
   },
@@ -873,26 +877,6 @@
   },
   {
     "course": "M.Sc. BOTANY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "20- June- 2025"
-  },
-  {
-    "course": "M.Sc. ORGANIC CHEMISTRY (PATTERN 2019) - APRIL 2025",
-    "date": "20- June- 2025"
-  },
-  {
-    "course": "First Year M.Sc. DRUG CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
-    "date": "20- June- 2025"
-  },
-  {
-    "course": "Second Year M.Sc. DRUG CHEMISTRY(2023 Pattern (NEP 2020)) April-2025",
-    "date": "20- June- 2025"
-  },
-  {
-    "course": "M.Sc. DRUG CHEMISTRY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "20- June- 2025"
-  },
-  {
-    "course": "M.Sc. ELECTRONICS [(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "20- June- 2025"
   },
   {
