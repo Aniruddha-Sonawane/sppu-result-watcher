@@ -208,15 +208,11 @@
     "date": "28- February- 2026"
   },
   {
-    "course": "M.E. First Year Master of Engineering(2025 Pattern) Winter Session 2025",
+    "course": "PGDCM(2022 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
-    "course": "First Year MA(2019 Credit Pattern) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
-    "course": "Second Year MA(2019 Credit Pattern) Winter Session 2025",
+    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
@@ -240,20 +236,16 @@
     "date": "28- February- 2026"
   },
   {
-    "course": "PGDCM(2022 Pattern) Winter Session 2025",
+    "course": "M.E. First Year Master of Engineering(2025 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
-    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Winter Session 2025",
+    "course": "First Year MA(2019 Credit Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
-    "course": "First Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
-    "date": "27- February- 2026"
-  },
-  {
-    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "27- February- 2026"
+    "course": "Second Year MA(2019 Credit Pattern) Winter Session 2025",
+    "date": "28- February- 2026"
   },
   {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
@@ -269,6 +261,14 @@
   },
   {
     "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "27- February- 2026"
+  },
+  {
+    "course": "First Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
+    "date": "27- February- 2026"
+  },
+  {
+    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "27- February- 2026"
   },
   {
@@ -480,19 +480,19 @@
     "date": "10- February- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Winter Session 2025",
-    "date": "09- February- 2026"
-  },
-  {
-    "course": "Third Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Winter Session 2025",
-    "date": "09- February- 2026"
-  },
-  {
     "course": "First Year Master of Commerce((2023 Pattern) (NEP 2020)) Winter Session 2025",
     "date": "09- February- 2026"
   },
   {
     "course": "Second Year Master of Commerce((2023 Pattern) (NEP 2020)) Winter Session 2025",
+    "date": "09- February- 2026"
+  },
+  {
+    "course": "Second Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Winter Session 2025",
+    "date": "09- February- 2026"
+  },
+  {
+    "course": "Third Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Winter Session 2025",
     "date": "09- February- 2026"
   },
   {
@@ -720,6 +720,22 @@
     "date": "12- January- 2026"
   },
   {
+    "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "M.E. Second Year (2017 Pattern) Winter Session-2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year M.B.A.(Digital Marketing) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
     "course": "First Year M.B.A.(Service Management) Winter Session 2025",
     "date": "12- January- 2026"
   },
@@ -736,18 +752,6 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "M.E. Second Year (2017 Pattern) Winter Session-2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
-    "date": "12- January- 2026"
-  },
-  {
     "course": "First year M.B.A.(Fintech) Winter Session 2025",
     "date": "12- January- 2026"
   },
@@ -756,11 +760,7 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "First Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
+    "course": "F.E.(2019 Credit Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
   {
@@ -1082,18 +1082,6 @@
   {
     "course": "M.A.(REV.2013)(EXTERNAL) - APRIL 2025",
     "date": "16- June- 2025"
-  },
-  {
-    "course": "First Year M.A.(2023 Pattern (NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "Second Year M.A.(2023 Pattern (NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) April-2025",
-    "date": "14- June- 2025"
   },
   {
     "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
