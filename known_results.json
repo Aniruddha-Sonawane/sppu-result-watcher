@@ -212,10 +212,6 @@
     "date": "28- February- 2026"
   },
   {
-    "course": "First Year Master of Computer Applications(Under Engineering)(2025 Pattern) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
     "course": "First Year MA(2019 Credit Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
@@ -240,12 +236,24 @@
     "date": "28- February- 2026"
   },
   {
+    "course": "First Year Master of Computer Applications(Under Engineering)(2025 Pattern) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
     "course": "PGDCM(2022 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
     "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
+  },
+  {
+    "course": "First Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
+    "date": "27- February- 2026"
+  },
+  {
+    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "27- February- 2026"
   },
   {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
@@ -261,14 +269,6 @@
   },
   {
     "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "27- February- 2026"
-  },
-  {
-    "course": "First Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
-    "date": "27- February- 2026"
-  },
-  {
-    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "27- February- 2026"
   },
   {
@@ -720,6 +720,22 @@
     "date": "12- January- 2026"
   },
   {
+    "course": "First Year M.B.A.(Service Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Service Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year M.B.A.(Project Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
     "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
@@ -745,22 +761,6 @@
   },
   {
     "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year M.B.A.(Service Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Service Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year M.B.A.(Project Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
     "date": "12- January- 2026"
   },
   {
@@ -952,14 +952,6 @@
     "date": "25- June- 2025"
   },
   {
-    "course": "First Year M.Sc. ZOOLOGY(2023 PATTERN (NEP 2020)) April-2025",
-    "date": "25- June- 2025"
-  },
-  {
-    "course": "Second Year M.Sc. ZOOLOGY(2023 PATTERN (NEP 2020)) April-2025",
-    "date": "25- June- 2025"
-  },
-  {
     "course": "First Year M.Sc. ZOOLOGY(2024 PATTERN (NEP 2020)) April-2025",
     "date": "25- June- 2025"
   },
@@ -989,14 +981,6 @@
   },
   {
     "course": "M.Sc. ORGANIC CHEMISTRY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "24- June- 2025"
-  },
-  {
-    "course": "First Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) April-2025",
-    "date": "24- June- 2025"
-  },
-  {
-    "course": "Second Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) April-2025",
     "date": "24- June- 2025"
   },
   {
@@ -1100,10 +1084,6 @@
     "date": "16- June- 2025"
   },
   {
-    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
     "course": "First Year M.A.(2023 Pattern (NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
@@ -1113,6 +1093,10 @@
   },
   {
     "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) April-2025",
+    "date": "14- June- 2025"
+  },
+  {
+    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
   {
@@ -1212,15 +1196,15 @@
     "date": "24- May- 2025"
   },
   {
-    "course": "DIPLOMA COURSE IN INTELLECTUAL PROPERTY RIGHTS LAWS - APRIL 2025",
-    "date": "24- May- 2025"
-  },
-  {
     "course": "POST GRADUATE DIPLOMA IN TAXATION APRIL 2025",
     "date": "24- May- 2025"
   },
   {
     "course": "POST GRADUATE DIPLOMA IN INTERNATIONAL BUSINESS PATTERN 2020 APRIL 2025",
+    "date": "24- May- 2025"
+  },
+  {
+    "course": "DIPLOMA COURSE IN INTELLECTUAL PROPERTY RIGHTS LAWS - APRIL 2025",
     "date": "24- May- 2025"
   },
   {
