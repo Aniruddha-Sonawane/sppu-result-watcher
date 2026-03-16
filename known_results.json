@@ -288,19 +288,19 @@
     "date": "28- February- 2026"
   },
   {
-    "course": "First Year MA(2019 Credit Pattern) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
-    "course": "Second Year MA(2019 Credit Pattern) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
     "course": "First Year Master of Computer Applications(Under Engineering)(2025 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
     "course": "M.E. First Year Master of Engineering(2025 Pattern) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
+    "course": "First Year MA(2019 Credit Pattern) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
+    "course": "Second Year MA(2019 Credit Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
@@ -312,19 +312,19 @@
     "date": "28- February- 2026"
   },
   {
-    "course": "First Year M.Sc. BIOTECHNOLOGY(2023 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. BIOTECHNOLOGY(2023 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
     "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
     "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
+    "course": "First Year M.Sc. BIOTECHNOLOGY(2023 Pattern (NEP 2020)) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. BIOTECHNOLOGY(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
@@ -388,6 +388,14 @@
     "date": "27- February- 2026"
   },
   {
+    "course": "First Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
+    "date": "27- February- 2026"
+  },
+  {
+    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "27- February- 2026"
+  },
+  {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
     "date": "27- February- 2026"
   },
@@ -401,14 +409,6 @@
   },
   {
     "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "27- February- 2026"
-  },
-  {
-    "course": "First Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
-    "date": "27- February- 2026"
-  },
-  {
-    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "27- February- 2026"
   },
   {
@@ -820,6 +820,22 @@
     "date": "12- January- 2026"
   },
   {
+    "course": "First Year M.B.A.(Service Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Service Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year M.B.A.(Project Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
     "course": "M.E. First Year (2017 Pattern) Winter Session-2025",
     "date": "12- January- 2026"
   },
@@ -845,22 +861,6 @@
   },
   {
     "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year M.B.A.(Service Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Service Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year M.B.A.(Project Management) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
     "date": "12- January- 2026"
   },
   {
@@ -1136,15 +1136,15 @@
     "date": "16- June- 2025"
   },
   {
-    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
-    "date": "14- June- 2025"
-  },
-  {
     "course": "M.Sc. BIOTECHNOLOGY - APRIL 2025",
     "date": "14- June- 2025"
   },
   {
     "course": "M.Sc. BIOTECHNOLOGY (PATTERN 2019) - APRIL 2025",
+    "date": "14- June- 2025"
+  },
+  {
+    "course": "MA  (2024 Pattern(NEP 2020)) April-2025",
     "date": "14- June- 2025"
   },
   {
@@ -1166,10 +1166,6 @@
   {
     "course": "BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM) - APRIL 2025",
     "date": "13- June- 2025"
-  },
-  {
-    "course": "Second Year M.A./M.Sc. in Statistics(2019 Pattern) April-2025",
-    "date": "11- June- 2025"
   },
   {
     "course": "SECOND YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - APRIL 2025",
