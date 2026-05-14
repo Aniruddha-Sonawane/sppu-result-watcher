@@ -1,11 +1,55 @@
 [
   {
+    "course": "FIRST YEAR B.Sc. (Data Science)(2024 Pattern) Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year B. Sc. (Fashion Design) 2024 Pattern Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year B.Sc. (Home Science) 2024 Pattern Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "FIRST YEAR B.Sc.(Information Technology) 2024 Pattern Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year B.Sc. (Cyber Security) Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year B.Sc. Degree Program in Wine, Brewing and Alcohol Technology Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "FIRST YEAR B.Sc. (Artificial Intelligence and Machine Learning)(2024 Pattern) Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year B.Ed. - Special Education (Hearing Impaired) (2025 PATTERN) Winter Sesion 2025 -Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year Master of Physical Education (M.P.Ed.) 2017 Pattern Winter Session 2025 -Program 125",
+    "date": "14- May- 2026"
+  },
+  {
     "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
     "date": "14- May- 2026"
   },
   {
     "course": "Master of Commerce((NON-NEP to NEP 2019-2023 PATTERN)) Winter Session 2025",
     "date": "14- May- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. ZOOLOGY([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
+    "date": "12- May- 2026"
   },
   {
     "course": "Second Year M.Sc. MICROBIOLOGY([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
@@ -17,18 +61,6 @@
   },
   {
     "course": "Second Year M.Sc. Computer Applications([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
-    "date": "12- May- 2026"
-  },
-  {
-    "course": "Second Year MCA([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
-    "date": "12- May- 2026"
-  },
-  {
-    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (HUMAN RESOURCE DEVELOPMENT)([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
-    "date": "12- May- 2026"
-  },
-  {
-    "course": "Second Year MBA([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
     "date": "12- May- 2026"
   },
   {
@@ -64,7 +96,15 @@
     "date": "12- May- 2026"
   },
   {
-    "course": "Second Year M.Sc. ZOOLOGY([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
+    "course": "Second Year MCA([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
+    "date": "12- May- 2026"
+  },
+  {
+    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (HUMAN RESOURCE DEVELOPMENT)([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
+    "date": "12- May- 2026"
+  },
+  {
+    "course": "Second Year MBA([(NON-NEP) to NEP 2020-2024 PATTERN)]) Winter Session 2025",
     "date": "12- May- 2026"
   },
   {
@@ -248,11 +288,15 @@
     "date": "07- April- 2026"
   },
   {
+    "course": "First Year MBA (Fintech)((2025 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "04- April- 2026"
+  },
+  {
     "course": "First Year MBA (Project Management)((2025 Pattern(NEP 2020))) Winter Session 2025",
     "date": "04- April- 2026"
   },
   {
-    "course": "First Year MBA (Fintech)((2025 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)((2025 Pattern(NEP 2020))) Winter Session 2025",
     "date": "04- April- 2026"
   },
   {
@@ -268,10 +312,6 @@
     "date": "04- April- 2026"
   },
   {
-    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)((2025 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "04- April- 2026"
-  },
-  {
     "course": "First Year Bachelor of Computer Applications (Science)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "03- April- 2026"
   },
@@ -284,23 +324,11 @@
     "date": "03- April- 2026"
   },
   {
-    "course": "First Year M.Sc. ORGANIC CHEMISTRY(2025 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "03- April- 2026"
-  },
-  {
-    "course": "First Year M.Sc. ZOOLOGY((2025 Pattern (NEP 2020))) Winter Session 2025",
-    "date": "03- April- 2026"
-  },
-  {
     "course": "First Year M.Sc. BOTANY((2025 Pattern (NEP 2020))) Winter Session 2025",
     "date": "03- April- 2026"
   },
   {
-    "course": "First Year M.Sc. Computer Science((2025 Pattern (NEP 2020))) Winter Session 2025",
-    "date": "03- April- 2026"
-  },
-  {
-    "course": "First Year M.Sc. MATHEMATICS((2025 Pattern (NEP 2020))) Winter Session 2025",
+    "course": "First Year M.Sc. ORGANIC CHEMISTRY(2025 Pattern (NEP 2020)) Winter Session 2025",
     "date": "03- April- 2026"
   },
   {
@@ -312,11 +340,23 @@
     "date": "03- April- 2026"
   },
   {
+    "course": "First Year M.Sc. Computer Science((2025 Pattern (NEP 2020))) Winter Session 2025",
+    "date": "03- April- 2026"
+  },
+  {
     "course": "First Year M.Sc. PHYSICS((2025 Pattern (NEP 2020))) Winter Session 2025",
     "date": "03- April- 2026"
   },
   {
+    "course": "First Year M.Sc. MATHEMATICS((2025 Pattern (NEP 2020))) Winter Session 2025",
+    "date": "03- April- 2026"
+  },
+  {
     "course": "First Year M.Sc. Computer Applications((2025 Pattern (NEP 2020))) Winter Session 2025",
+    "date": "03- April- 2026"
+  },
+  {
+    "course": "First Year M.Sc. ZOOLOGY((2025 Pattern (NEP 2020))) Winter Session 2025",
     "date": "03- April- 2026"
   },
   {
@@ -364,11 +404,11 @@
     "date": "28- March- 2026"
   },
   {
-    "course": "First Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "First Year M.A.(JOURNALISM AND MASS COMMUNICATION)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "28- March- 2026"
   },
   {
-    "course": "First Year M.A.(JOURNALISM AND MASS COMMUNICATION)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "First Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "28- March- 2026"
   },
   {
@@ -460,14 +500,6 @@
     "date": "20- March- 2026"
   },
   {
-    "course": "First Year M.Sc. ZOOLOGY(2024 PATTERN (NEP 2020)) Winter Session 2025",
-    "date": "18- March- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. ZOOLOGY(2024 PATTERN (NEP 2020)) Winter Session 2025",
-    "date": "18- March- 2026"
-  },
-  {
     "course": "First Year M.Sc. PHYSICS(2023 PATTERN (NEP 2020)) Winter Session 2025",
     "date": "18- March- 2026"
   },
@@ -485,6 +517,14 @@
   },
   {
     "course": "Second Year M.A./M.Sc. in Statistics(2019 Pattern) Winter Session 2025",
+    "date": "18- March- 2026"
+  },
+  {
+    "course": "First Year M.Sc. ZOOLOGY(2024 PATTERN (NEP 2020)) Winter Session 2025",
+    "date": "18- March- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. ZOOLOGY(2024 PATTERN (NEP 2020)) Winter Session 2025",
     "date": "18- March- 2026"
   },
   {
@@ -548,19 +588,19 @@
     "date": "09- March- 2026"
   },
   {
-    "course": "First Year M.Sc. ZOOLOGY(2023 PATTERN (NEP 2020)) Winter Session 2025",
-    "date": "09- March- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. ZOOLOGY(2023 PATTERN (NEP 2020)) Winter Session 2025",
-    "date": "09- March- 2026"
-  },
-  {
     "course": "First Year M.Sc. Computer Science(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "09- March- 2026"
   },
   {
     "course": "Second Year M.Sc. Computer Science(2023 Pattern (NEP 2020)) Winter Session 2025",
+    "date": "09- March- 2026"
+  },
+  {
+    "course": "First Year MBA((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
+    "date": "09- March- 2026"
+  },
+  {
+    "course": "Second Year MBA((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "09- March- 2026"
   },
   {
@@ -572,11 +612,11 @@
     "date": "09- March- 2026"
   },
   {
-    "course": "First Year MBA((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
+    "course": "First Year M.Sc. ZOOLOGY(2023 PATTERN (NEP 2020)) Winter Session 2025",
     "date": "09- March- 2026"
   },
   {
-    "course": "Second Year MBA((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "Second Year M.Sc. ZOOLOGY(2023 PATTERN (NEP 2020)) Winter Session 2025",
     "date": "09- March- 2026"
   },
   {
@@ -593,6 +633,14 @@
   },
   {
     "course": "Second Year M.Sc. MICROBIOLOGY(2023 Pattern (NEP 2020)) Winter Session 2025",
+    "date": "05- March- 2026"
+  },
+  {
+    "course": "First Year M.Sc. BOTANY(2023 Pattern (NEP 2020)) Winter Session 2025",
+    "date": "05- March- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. BOTANY(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "05- March- 2026"
   },
   {
@@ -625,14 +673,6 @@
   },
   {
     "course": "Second Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "05- March- 2026"
-  },
-  {
-    "course": "First Year M.Sc. BOTANY(2023 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "05- March- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. BOTANY(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "05- March- 2026"
   },
   {
@@ -684,14 +724,6 @@
     "date": "04- March- 2026"
   },
   {
-    "course": "Second Year M.Sc. BOTANY(2019 Pattern) Winter Session 2025",
-    "date": "04- March- 2026"
-  },
-  {
-    "course": "Second Year M.A.(JOURNALISM AND MASS COMMUNICATION)(2019 Pattern) Winter Session 2025",
-    "date": "04- March- 2026"
-  },
-  {
     "course": "First Year M.Sc. PHYSICS(2020 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
@@ -705,6 +737,10 @@
   },
   {
     "course": "Second Year M.Sc. MATHEMATICS(2019 Pattern) Winter Session 2025",
+    "date": "04- March- 2026"
+  },
+  {
+    "course": "Second Year M.A.(JOURNALISM AND MASS COMMUNICATION)(2019 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
   {
@@ -725,6 +761,10 @@
   },
   {
     "course": "DIPLOMA COURSE IN CYBER LAWS WINTER SESSION 2025",
+    "date": "04- March- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. BOTANY(2019 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
   {
@@ -804,14 +844,6 @@
     "date": "28- February- 2026"
   },
   {
-    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
     "course": "First Year M.Sc. DRUG CHEMISTRY(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "28- February- 2026"
   },
@@ -825,6 +857,14 @@
   },
   {
     "course": "Second Year M.Sc. ANALYTICAL CHEMISTRY(2019 Pattern) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
+    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) Winter Session 2025",
+    "date": "28- February- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
@@ -852,11 +892,11 @@
     "date": "27- February- 2026"
   },
   {
-    "course": "Second Year Bachelor of Computer Applications (Science)(PATT. 2019) Winter Session 2025",
+    "course": "First Year Master of Computer Application (MCA)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
     "date": "27- February- 2026"
   },
   {
-    "course": "Third Year Bachelor of Computer Applications (Science)(PATT. 2019) Winter Session 2025",
+    "course": "Second Year Master of Computer Application (MCA)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "27- February- 2026"
   },
   {
@@ -868,11 +908,11 @@
     "date": "27- February- 2026"
   },
   {
-    "course": "First Year Master of Computer Application (MCA)((2024 Pattern(NEP 2020))) Winter Session 2025 - Backlog",
+    "course": "Second Year Bachelor of Computer Applications (Science)(PATT. 2019) Winter Session 2025",
     "date": "27- February- 2026"
   },
   {
-    "course": "Second Year Master of Computer Application (MCA)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "Third Year Bachelor of Computer Applications (Science)(PATT. 2019) Winter Session 2025",
     "date": "27- February- 2026"
   },
   {
@@ -996,19 +1036,19 @@
     "date": "17- February- 2026"
   },
   {
-    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2019 Pattern) Winter Session 2025",
-    "date": "17- February- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2019 Pattern) Winter Session 2025",
-    "date": "17- February- 2026"
-  },
-  {
     "course": "First Year M.Sc.(IMCA)(2023 Pattern (NEP 2020)) Winter Session 2025",
     "date": "17- February- 2026"
   },
   {
     "course": "Second Year M.Sc.(IMCA)(2023 Pattern (NEP 2020)) Winter Session 2025",
+    "date": "17- February- 2026"
+  },
+  {
+    "course": "First Year M.Sc. INORGANIC CHEMISTRY(2019 Pattern) Winter Session 2025",
+    "date": "17- February- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. INORGANIC CHEMISTRY(2019 Pattern) Winter Session 2025",
     "date": "17- February- 2026"
   },
   {
@@ -1316,22 +1356,6 @@
     "date": "12- January- 2026"
   },
   {
-    "course": "First year M.B.A.(Fintech) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Fintech) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "First Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
-    "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
-    "date": "12- January- 2026"
-  },
-  {
     "course": "First Year M.B.A.(Service Management) Winter Session 2025",
     "date": "12- January- 2026"
   },
@@ -1345,6 +1369,22 @@
   },
   {
     "course": "Second Year M.B.A.(Project Management) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First year M.B.A.(Fintech) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Fintech) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "First Year M.B.A.(Digital Marketing) Winter Session 2025",
+    "date": "12- January- 2026"
+  },
+  {
+    "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025",
     "date": "12- January- 2026"
   },
   {
@@ -1480,11 +1520,7 @@
     "date": "24- June- 2025"
   },
   {
-    "course": "M.Sc. BOTANY - APRIL 2025",
-    "date": "23- June- 2025"
-  },
-  {
-    "course": "M.Sc. ORGANIC CHEMISTRY - APRIL 2025",
+    "course": "M.Sc. MATHEMATICS - APRIL 2025",
     "date": "23- June- 2025"
   },
   {
@@ -1492,7 +1528,11 @@
     "date": "23- June- 2025"
   },
   {
-    "course": "M.Sc. MATHEMATICS - APRIL 2025",
+    "course": "M.Sc. BOTANY - APRIL 2025",
+    "date": "23- June- 2025"
+  },
+  {
+    "course": "M.Sc. ORGANIC CHEMISTRY - APRIL 2025",
     "date": "23- June- 2025"
   },
   {
@@ -1520,6 +1560,10 @@
     "date": "16- June- 2025"
   },
   {
+    "course": "M.A. GEOGRAPHY - APRIL 2025",
+    "date": "14- June- 2025"
+  },
+  {
     "course": "M.Sc. BIOTECHNOLOGY - APRIL 2025",
     "date": "14- June- 2025"
   },
@@ -1529,10 +1573,6 @@
   },
   {
     "course": "BACHELOR OF BUSINESS ADMINISTRATION (REV.2013) EXAM.- APRIL 2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "M.A. GEOGRAPHY - APRIL 2025",
     "date": "14- June- 2025"
   },
   {
