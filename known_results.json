@@ -128,19 +128,19 @@
     "date": "15- July- 2026"
   },
   {
-    "course": "First Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "15- July- 2026"
   },
   {
     "course": "Second Year MBA (Project Management)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -308,10 +308,6 @@
     "date": "09- July- 2026"
   },
   {
-    "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
-    "date": "09- July- 2026"
-  },
-  {
     "course": "Diploma in Taxation Laws (2025 Pattern) Summer Session 2026",
     "date": "09- July- 2026"
   },
@@ -329,6 +325,10 @@
   },
   {
     "course": "Diploma in Alternative Dispute Resolution (2025 Pattern) Summer Session 2026",
+    "date": "09- July- 2026"
+  },
+  {
+    "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
     "date": "09- July- 2026"
   },
   {
@@ -808,6 +808,14 @@
     "date": "13- June- 2026"
   },
   {
+    "course": "PGDCM(2022 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
+    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
     "course": "DIPLOMA COURSE IN CYBER LAWS SUMMER SESSION 2026",
     "date": "13- June- 2026"
   },
@@ -817,14 +825,6 @@
   },
   {
     "course": "DIPLOMA IN LABOUR LAWS AND LABOUR WELFARE SUMMER SESSION 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "PGDCM(2022 Pattern) Summer Session 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
     "date": "13- June- 2026"
   },
   {
@@ -1156,10 +1156,6 @@
     "date": "03- April- 2026"
   },
   {
-    "course": "First Year Master of Commerce((2025 Pattern) (NEP 2020)) Winter Session 2025",
-    "date": "02- April- 2026"
-  },
-  {
     "course": "Second Year M.Pharm(2019 Pattern) Winter Session 2025",
     "date": "28- March- 2026"
   },
@@ -1478,14 +1474,6 @@
   {
     "course": "S.E.(2019 CREDIT PAT.) WINTER SESSION 2025",
     "date": "06- February- 2026"
-  },
-  {
-    "course": "First Year MCom(2019 Pattern) Winter Session 2025",
-    "date": "29- January- 2026"
-  },
-  {
-    "course": "Second Year MCom(2019 Pattern) Winter Session 2025",
-    "date": "29- January- 2026"
   },
   {
     "course": "Fourth Year B.Pharmacy(2018 Pattern) Winter Session 2025",
