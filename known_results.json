@@ -148,14 +148,6 @@
     "date": "15- July- 2026"
   },
   {
-    "course": "First Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "15- July- 2026"
   },
@@ -169,6 +161,14 @@
   },
   {
     "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -324,6 +324,10 @@
     "date": "09- July- 2026"
   },
   {
+    "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
+    "date": "09- July- 2026"
+  },
+  {
     "course": "Diploma in Taxation Laws (2025 Pattern) Summer Session 2026",
     "date": "09- July- 2026"
   },
@@ -341,10 +345,6 @@
   },
   {
     "course": "Diploma in Alternative Dispute Resolution (2025 Pattern) Summer Session 2026",
-    "date": "09- July- 2026"
-  },
-  {
-    "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
     "date": "09- July- 2026"
   },
   {
@@ -936,11 +936,11 @@
     "date": "14- May- 2026"
   },
   {
-    "course": "Master of Commerce((NON-NEP to NEP 2019-2023 PATTERN)) Winter Session 2025",
+    "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
     "date": "14- May- 2026"
   },
   {
-    "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
+    "course": "Master of Commerce((NON-NEP to NEP 2019-2023 PATTERN)) Winter Session 2025",
     "date": "14- May- 2026"
   },
   {
@@ -1377,10 +1377,6 @@
   },
   {
     "course": "Second Year MA(2019 Credit Pattern) Winter Session 2025",
-    "date": "28- February- 2026"
-  },
-  {
-    "course": "First Year Master of Computer Applications(Under Engineering)(2025 Pattern) Winter Session 2025",
     "date": "28- February- 2026"
   },
   {
