@@ -152,19 +152,7 @@
     "date": "15- July- 2026"
   },
   {
-    "course": "First Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MBA (Project Management)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -176,7 +164,19 @@
     "date": "15- July- 2026"
   },
   {
-    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MBA (Project Management)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -332,10 +332,6 @@
     "date": "09- July- 2026"
   },
   {
-    "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
-    "date": "09- July- 2026"
-  },
-  {
     "course": "Diploma in Taxation Laws (2025 Pattern) Summer Session 2026",
     "date": "09- July- 2026"
   },
@@ -353,6 +349,10 @@
   },
   {
     "course": "Diploma in Alternative Dispute Resolution (2025 Pattern) Summer Session 2026",
+    "date": "09- July- 2026"
+  },
+  {
+    "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
     "date": "09- July- 2026"
   },
   {
@@ -832,6 +832,14 @@
     "date": "13- June- 2026"
   },
   {
+    "course": "PGDCM(2022 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
+    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
     "course": "DIPLOMA COURSE IN CYBER LAWS SUMMER SESSION 2026",
     "date": "13- June- 2026"
   },
@@ -841,14 +849,6 @@
   },
   {
     "course": "DIPLOMA IN LABOUR LAWS AND LABOUR WELFARE SUMMER SESSION 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "PGDCM(2022 Pattern) Summer Session 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
     "date": "13- June- 2026"
   },
   {
@@ -906,10 +906,6 @@
   {
     "course": "Second Year M.Sc. ENVIRONMENTAL SCIENCE([(NON-NEP) to NEP 2019-2023 PATTERN)]) Summer Session 2025",
     "date": "18- May- 2026"
-  },
-  {
-    "course": "Master of Commerce((NON-NEP to NEP 2019-2023 PATTERN)) Winter Session 2025",
-    "date": "14- May- 2026"
   },
   {
     "course": "Second Year M.A.([(NON-NEP) to NEP 2019-2023 PATTERN)]) Winter Session 2025",
@@ -1466,14 +1462,6 @@
   {
     "course": "T.E.(2019 Credit Pattern) Winter Session 2025",
     "date": "10- February- 2026"
-  },
-  {
-    "course": "First Year Master of Commerce((2023 Pattern) (NEP 2020)) Winter Session 2025",
-    "date": "09- February- 2026"
-  },
-  {
-    "course": "Second Year Master of Commerce((2023 Pattern) (NEP 2020)) Winter Session 2025",
-    "date": "09- February- 2026"
   },
   {
     "course": "S.E.(2019 CREDIT PAT.) WINTER SESSION 2025",
