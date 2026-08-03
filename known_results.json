@@ -1,5 +1,33 @@
 [
   {
+    "course": "First Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
+    "course": "Second Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
+    "course": "First Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
+    "course": "Second Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
+    "course": "Third Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
+    "course": "First Year Bachelor of Business Administration (I.B.) (2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
+    "course": "Second Year Bachelor of Business Administration (I.B.) (2019 Pattern) Winter Session 2025",
+    "date": "03- August- 2026"
+  },
+  {
     "course": "S.E.(2024 Pattern (NEP 2020)) Summer Session 2026",
     "date": "02- August- 2026"
   },
@@ -8,7 +36,7 @@
     "date": "31- July- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF BUSINESS ADMINISTRATION(2024 Pattern) Summer Session 2026",
+    "course": "First Year M.Sc. ZOOLOGY((2025 Pattern (NEP 2020))) Summer Session 2026",
     "date": "31- July- 2026"
   },
   {
@@ -16,7 +44,7 @@
     "date": "31- July- 2026"
   },
   {
-    "course": "First Year MBA((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "Second Year BACHELOR OF BUSINESS ADMINISTRATION(2024 Pattern) Summer Session 2026",
     "date": "31- July- 2026"
   },
   {
@@ -33,6 +61,10 @@
   },
   {
     "course": "First Year M.Sc. Computer Science((2025 Pattern (NEP 2020))) Summer Session 2026",
+    "date": "31- July- 2026"
+  },
+  {
+    "course": "First Year MBA((2025 Pattern(NEP 2020))) Summer Session 2026",
     "date": "31- July- 2026"
   },
   {
@@ -76,15 +108,15 @@
     "date": "31- July- 2026"
   },
   {
-    "course": "First Year M.Sc. ZOOLOGY((2025 Pattern (NEP 2020))) Summer Session 2026",
-    "date": "31- July- 2026"
-  },
-  {
     "course": "First Year MBA((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "30- July- 2026"
   },
   {
     "course": "Second Year MBA((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "30- July- 2026"
+  },
+  {
+    "course": "S.E.(2019 Credit Pattern) Summer Session 2026",
     "date": "30- July- 2026"
   },
   {
@@ -97,10 +129,6 @@
   },
   {
     "course": "First Year Engineering((2024 Pattern) - Revised) Summer Session 2026",
-    "date": "30- July- 2026"
-  },
-  {
-    "course": "S.E.(2019 Credit Pattern) Summer Session 2026",
     "date": "30- July- 2026"
   },
   {
@@ -140,14 +168,6 @@
     "date": "29- July- 2026"
   },
   {
-    "course": "First Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "29- July- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "29- July- 2026"
-  },
-  {
     "course": "First Year M.Sc. PHYSICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
     "date": "29- July- 2026"
   },
@@ -164,12 +184,16 @@
     "date": "29- July- 2026"
   },
   {
-    "course": "Second Year Bachelor of Business Administration (I.B.)(2024 Pattern) Summer Session 2026",
+    "course": "First Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "29- July- 2026"
   },
   {
-    "course": "First Year MA/M.Sc. GEOGRAPHY ((2025 Pattern (NEP 2020))) Summer Session 2026",
-    "date": "28- July- 2026"
+    "course": "Second Year M.Sc. PHYSICAL CHEMISTRY (2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "29- July- 2026"
+  },
+  {
+    "course": "Second Year Bachelor of Business Administration (I.B.)(2024 Pattern) Summer Session 2026",
+    "date": "29- July- 2026"
   },
   {
     "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)((2025 Pattern(NEP 2020))) Summer Session 2026",
@@ -185,6 +209,10 @@
   },
   {
     "course": "First Year M.Sc. BIOTECHNOLOGY((2025 Pattern (NEP 2020))) Summer Session 2026",
+    "date": "28- July- 2026"
+  },
+  {
+    "course": "First Year MA/M.Sc. GEOGRAPHY ((2025 Pattern (NEP 2020))) Summer Session 2026",
     "date": "28- July- 2026"
   },
   {
@@ -216,14 +244,6 @@
     "date": "25- July- 2026"
   },
   {
-    "course": "First Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) Summer Session 2026",
-    "date": "25- July- 2026"
-  },
-  {
-    "course": "Second Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) Summer Session 2026",
-    "date": "25- July- 2026"
-  },
-  {
     "course": "First Year M.Sc. ENVIRONMENTAL SCIENCE(2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "25- July- 2026"
   },
@@ -232,7 +252,11 @@
     "date": "25- July- 2026"
   },
   {
-    "course": "First Year M.Sc. ENVIRONMENTAL SCIENCE((2025 Pattern (NEP 2020))) Summer Session 2026",
+    "course": "First Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) Summer Session 2026",
+    "date": "25- July- 2026"
+  },
+  {
+    "course": "Second Year MA/M.Sc. GEOGRAPHY (2023 PATTERN (NEP 2020)) Summer Session 2026",
     "date": "25- July- 2026"
   },
   {
@@ -244,11 +268,7 @@
     "date": "25- July- 2026"
   },
   {
-    "course": "First Year M.Sc.(IMCA)(2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "25- July- 2026"
-  },
-  {
-    "course": "Second Year M.Sc.(IMCA)(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "course": "First Year M.Sc. ENVIRONMENTAL SCIENCE((2025 Pattern (NEP 2020))) Summer Session 2026",
     "date": "25- July- 2026"
   },
   {
@@ -260,16 +280,28 @@
     "date": "25- July- 2026"
   },
   {
-    "course": "First Year M.Sc. MATHEMATICS((2025 Pattern (NEP 2020))) Summer Session 2026",
-    "date": "25- July- 2026"
-  },
-  {
     "course": "First Year M.Sc. MATHEMATICS(2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "25- July- 2026"
   },
   {
     "course": "Second Year M.Sc. MATHEMATICS(2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "25- July- 2026"
+  },
+  {
+    "course": "First Year M.Sc. MATHEMATICS((2025 Pattern (NEP 2020))) Summer Session 2026",
+    "date": "25- July- 2026"
+  },
+  {
+    "course": "First Year M.Sc.(IMCA)(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "25- July- 2026"
+  },
+  {
+    "course": "Second Year M.Sc.(IMCA)(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "25- July- 2026"
+  },
+  {
+    "course": "Second Year BACHELOR OF COMMERCE((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "24- July- 2026"
   },
   {
     "course": "First Year BACHELOR OF ARTS((2024 Pattern(NEP 2020))) Summer Session 2026",
@@ -281,10 +313,6 @@
   },
   {
     "course": "First Year BACHELOR OF ARTS((2025 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "24- July- 2026"
-  },
-  {
-    "course": "Second Year BACHELOR OF COMMERCE((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "24- July- 2026"
   },
   {
@@ -344,11 +372,11 @@
     "date": "21- July- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "Second Year BACHELOR OF SCIENCE((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "21- July- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF SCIENCE((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "Second Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "21- July- 2026"
   },
   {
@@ -388,14 +416,6 @@
     "date": "21- July- 2026"
   },
   {
-    "course": "First Year M.Sc. MICROBIOLOGY(2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "20- July- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. MICROBIOLOGY(2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "20- July- 2026"
-  },
-  {
     "course": "M.E. First Year M.E.(2017 Pattern) Summer Session 2026",
     "date": "20- July- 2026"
   },
@@ -404,12 +424,12 @@
     "date": "20- July- 2026"
   },
   {
-    "course": "First Year MBA (Project Management)((2025 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "17- July- 2026"
+    "course": "First Year M.Sc. MICROBIOLOGY(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "20- July- 2026"
   },
   {
-    "course": "First Year MBA (Fintech)((2025 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "17- July- 2026"
+    "course": "Second Year M.Sc. MICROBIOLOGY(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "20- July- 2026"
   },
   {
     "course": "First Year M.Sc. MICROBIOLOGY(2019 Pattern) Summer Session 2026",
@@ -428,6 +448,14 @@
     "date": "17- July- 2026"
   },
   {
+    "course": "First Year MBA (Project Management)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "17- July- 2026"
+  },
+  {
+    "course": "First Year MBA (Fintech)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "17- July- 2026"
+  },
+  {
     "course": "First Year B.Arch(2019 Pattern) Summer Session 2026",
     "date": "17- July- 2026"
   },
@@ -440,6 +468,10 @@
     "date": "16- July- 2026"
   },
   {
+    "course": "First Year M.Sc.(IMCA)((2025 Pattern (NEP 2020))) Summer Session 2026",
+    "date": "16- July- 2026"
+  },
+  {
     "course": "First Year M.Sc. DRUG CHEMISTRY(2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "16- July- 2026"
   },
@@ -448,28 +480,8 @@
     "date": "16- July- 2026"
   },
   {
-    "course": "First Year M.Sc.(IMCA)((2025 Pattern (NEP 2020))) Summer Session 2026",
-    "date": "16- July- 2026"
-  },
-  {
     "course": "First Year M.Sc. ELECTRONICS ((2025 Pattern (NEP 2020))) Summer Session 2026",
     "date": "16- July- 2026"
-  },
-  {
-    "course": "First Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "First Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
   },
   {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
@@ -488,6 +500,22 @@
     "date": "15- July- 2026"
   },
   {
+    "course": "First Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
     "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
@@ -496,19 +524,19 @@
     "date": "15- July- 2026"
   },
   {
-    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (HUMAN RESOURCE DEVELOPMENT)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (HUMAN RESOURCE DEVELOPMENT)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
     "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
     "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (HUMAN RESOURCE DEVELOPMENT)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (HUMAN RESOURCE DEVELOPMENT)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -552,14 +580,6 @@
     "date": "13- July- 2026"
   },
   {
-    "course": "First Year M.Sc.BIO-CHEMISTRY(2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "13- July- 2026"
-  },
-  {
-    "course": "Second Year M.Sc.BIO-CHEMISTRY(2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "13- July- 2026"
-  },
-  {
     "course": "First Year M.Sc.Zoology(2019 Pattern) Summer Session 2026",
     "date": "13- July- 2026"
   },
@@ -580,6 +600,14 @@
     "date": "13- July- 2026"
   },
   {
+    "course": "First Year M.Sc.BIO-CHEMISTRY(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "13- July- 2026"
+  },
+  {
+    "course": "Second Year M.Sc.BIO-CHEMISTRY(2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "13- July- 2026"
+  },
+  {
     "course": "First Year M.Sc. INORGANIC CHEMISTRY(2019 Pattern) Summer Session 2026",
     "date": "13- July- 2026"
   },
@@ -596,14 +624,6 @@
     "date": "13- July- 2026"
   },
   {
-    "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
-    "date": "13- July- 2026"
-  },
-  {
-    "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
-    "date": "13- July- 2026"
-  },
-  {
     "course": "First Year M.Sc. ELECTRONICS (2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "13- July- 2026"
   },
@@ -612,11 +632,23 @@
     "date": "13- July- 2026"
   },
   {
+    "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
+    "date": "13- July- 2026"
+  },
+  {
+    "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
+    "date": "13- July- 2026"
+  },
+  {
+    "course": "First Year Bachelor of Computer Applications (Science)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "11- July- 2026"
+  },
+  {
     "course": "First Year MED(CBCS)(2025 Pattern) Summer Session 2026",
     "date": "11- July- 2026"
   },
   {
-    "course": "First Year Bachelor of Computer Applications (Science)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "First Year BED(CBCS)Pattern(2025) Summer Session 2026",
     "date": "11- July- 2026"
   },
   {
@@ -628,19 +660,7 @@
     "date": "11- July- 2026"
   },
   {
-    "course": "First Year BED(CBCS)Pattern(2025) Summer Session 2026",
-    "date": "11- July- 2026"
-  },
-  {
     "course": "First Year B.Sc (Aviation) 2024 Pattern Winter Session 2025-Program 125",
-    "date": "09- July- 2026"
-  },
-  {
-    "course": "FIRST YEAR M.Sc. Bioinformatics Winter Session 2025-Program 125",
-    "date": "09- July- 2026"
-  },
-  {
-    "course": "FIRST YEAR MSc Defence Studies Winter Session 2025-Program 125",
     "date": "09- July- 2026"
   },
   {
@@ -665,6 +685,14 @@
   },
   {
     "course": "Diploma in Forensic Science and Medical Jurisprudence (2025 Pattern) Summer Session 2026",
+    "date": "09- July- 2026"
+  },
+  {
+    "course": "FIRST YEAR M.Sc. Bioinformatics Winter Session 2025-Program 125",
+    "date": "09- July- 2026"
+  },
+  {
+    "course": "FIRST YEAR MSc Defence Studies Winter Session 2025-Program 125",
     "date": "09- July- 2026"
   },
   {
@@ -696,11 +724,7 @@
     "date": "04- July- 2026"
   },
   {
-    "course": "Second Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Summer Session 2026",
-    "date": "03- July- 2026"
-  },
-  {
-    "course": "Third Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Summer Session 2026",
+    "course": "Third Year Bachelor of Business Administration (I.B.) (2019 Pattern) Summer Session 2026",
     "date": "03- July- 2026"
   },
   {
@@ -708,7 +732,11 @@
     "date": "03- July- 2026"
   },
   {
-    "course": "Third Year Bachelor of Business Administration (I.B.) (2019 Pattern) Summer Session 2026",
+    "course": "Third Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Summer Session 2026",
+    "date": "03- July- 2026"
+  },
+  {
+    "course": "Second Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Summer Session 2026",
     "date": "03- July- 2026"
   },
   {
@@ -748,11 +776,11 @@
     "date": "01- July- 2026"
   },
   {
-    "course": "Third Year BACHELOR OF SCIENCE (COMPUTER SCIENCE)((REV. 2019)) Summer Session 2026",
+    "course": "Second Year BACHELOR OF SCIENCE (COMPUTER SCIENCE)((REV. 2019)) Summer Session 2026",
     "date": "01- July- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF SCIENCE (COMPUTER SCIENCE)((REV. 2019)) Summer Session 2026",
+    "course": "Third Year BACHELOR OF SCIENCE (COMPUTER SCIENCE)((REV. 2019)) Summer Session 2026",
     "date": "01- July- 2026"
   },
   {
@@ -768,11 +796,31 @@
     "date": "01- July- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Summer Session 2026",
+    "course": "First Year BACHELOR OF SCIENCE(2025 Pattern(NEP 2020)) Summer Session 2026",
     "date": "30- June- 2026"
   },
   {
-    "course": "Third Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Summer Session 2026",
+    "course": "Second Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((REV. 2019)) Summer Session 2026",
+    "date": "30- June- 2026"
+  },
+  {
+    "course": "Third Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((REV. 2019)) Summer Session 2026",
+    "date": "30- June- 2026"
+  },
+  {
+    "course": "Second Year BACHELOR OF ARTS(2019 PATTERN) Summer Session 2026",
+    "date": "30- June- 2026"
+  },
+  {
+    "course": "Third Year BACHELOR OF ARTS(2019 PATTERN) Summer Session 2026",
+    "date": "30- June- 2026"
+  },
+  {
+    "course": "Second Year LL.B.(2017 Pattern) (N+2+1) Winter Session 2025",
+    "date": "30- June- 2026"
+  },
+  {
+    "course": "Third Year LL.B.(2017 Pattern) (N+2+1) Winter Session 2025",
     "date": "30- June- 2026"
   },
   {
@@ -788,39 +836,11 @@
     "date": "30- June- 2026"
   },
   {
-    "course": "First Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "Third Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Summer Session 2026",
     "date": "30- June- 2026"
   },
   {
-    "course": "First Year BACHELOR OF SCIENCE(2025 Pattern(NEP 2020)) Summer Session 2026",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "Second Year BACHELOR OF ARTS(2019 PATTERN) Summer Session 2026",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "Third Year BACHELOR OF ARTS(2019 PATTERN) Summer Session 2026",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "Second Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((REV. 2019)) Summer Session 2026",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "Third Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((REV. 2019)) Summer Session 2026",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "Second Year LL.B.(2017 Pattern) (N+2+1) Winter Session 2025",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "Third Year LL.B.(2017 Pattern) (N+2+1) Winter Session 2025",
-    "date": "30- June- 2026"
-  },
-  {
-    "course": "First Year Bachelor of Computer Applications (Science)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "Second Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Summer Session 2026",
     "date": "30- June- 2026"
   },
   {
@@ -836,16 +856,20 @@
     "date": "30- June- 2026"
   },
   {
+    "course": "First Year Bachelor of Computer Applications (Science)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "30- June- 2026"
+  },
+  {
+    "course": "First Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "30- June- 2026"
+  },
+  {
     "course": "First Year BACHELOR OF COMMERCE (BUSINESS MANAGEMENT)((2025 Pattern(NEP 2020))) Summer Session 2026",
     "date": "28- June- 2026"
   },
   {
     "course": "First Year BACHELOR OF COMMERCE (COMPUTER APPLICATION)((2025 Pattern(NEP 2020))) Summer Session 2026",
     "date": "28- June- 2026"
-  },
-  {
-    "course": "First Year Bachelor of Computer Applications (Science)(PATT. 2019) Summer Session 2026",
-    "date": "27- June- 2026"
   },
   {
     "course": "First Year BACHELOR OF SCIENCE (COMPUTER SCIENCE)((2024 Pattern(NEP 2020))) Summer Session 2026",
@@ -860,7 +884,7 @@
     "date": "27- June- 2026"
   },
   {
-    "course": "Diploma in Consumer Protection Laws (2025 Pattern) Summer Session 2026",
+    "course": "First Year Bachelor of Computer Applications (Science)(PATT. 2019) Summer Session 2026",
     "date": "27- June- 2026"
   },
   {
@@ -892,6 +916,10 @@
     "date": "27- June- 2026"
   },
   {
+    "course": "Diploma in Consumer Protection Laws (2025 Pattern) Summer Session 2026",
+    "date": "27- June- 2026"
+  },
+  {
     "course": "Second Year M.B.A.(Digital Marketing) Winter Session 2025 (N+2+1)",
     "date": "25- June- 2026"
   },
@@ -912,35 +940,7 @@
     "date": "25- June- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
-    "course": "Third Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
-    "course": "First Year BACHELOR OF COMMERCE((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
-    "course": "First Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((2025 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
-    "course": "First Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
     "course": "First Year BACHELOR OF SCIENCE (ANIMATION)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
-    "course": "Second Year B.A.LL.B(2017-2023 MIXED PATTERN) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
-    "course": "Third Year B.A.LL.B(2017-2023 MIXED PATTERN) Summer Session 2026",
     "date": "24- June- 2026"
   },
   {
@@ -953,6 +953,30 @@
   },
   {
     "course": "Fifth Year B.A.LL.B.(2017 Patter) (N+2+1)  Winter Session 2025",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "First Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "Second Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "Third Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "First Year BACHELOR OF COMMERCE((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "First Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "First Year BACHELOR OF SCIENCE((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "24- June- 2026"
   },
   {
@@ -972,15 +996,19 @@
     "date": "24- June- 2026"
   },
   {
-    "course": "First Year BACHELOR OF SCIENCE((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "24- June- 2026"
-  },
-  {
     "course": "First Year BACHELOR OF SCIENCE (HOSPITALITY STUDIES)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "24- June- 2026"
   },
   {
     "course": "First Year BACHELOR OF SCIENCE (HOSPITALITY STUDIES)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "Second Year B.A.LL.B(2017-2023 MIXED PATTERN) Summer Session 2026",
+    "date": "24- June- 2026"
+  },
+  {
+    "course": "Third Year B.A.LL.B(2017-2023 MIXED PATTERN) Summer Session 2026",
     "date": "24- June- 2026"
   },
   {
@@ -1016,6 +1044,18 @@
     "date": "23- June- 2026"
   },
   {
+    "course": "First Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((REV. 2019)) Summer Session 2026",
+    "date": "23- June- 2026"
+  },
+  {
+    "course": "SECOND YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - SUMMER SESSION 2026",
+    "date": "23- June- 2026"
+  },
+  {
+    "course": "THIRD YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - SUMMER SESSION 2026",
+    "date": "23- June- 2026"
+  },
+  {
     "course": "Second Year B.A.LL.B(2017 PATTERN) Summer Session 2026",
     "date": "23- June- 2026"
   },
@@ -1032,18 +1072,6 @@
     "date": "23- June- 2026"
   },
   {
-    "course": "First Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)((REV. 2019)) Summer Session 2026",
-    "date": "23- June- 2026"
-  },
-  {
-    "course": "SECOND YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - SUMMER SESSION 2026",
-    "date": "23- June- 2026"
-  },
-  {
-    "course": "THIRD YEAR OF THREE YEAR LAW COURSE(SEM.PATT.)(REV.17) - SUMMER SESSION 2026",
-    "date": "23- June- 2026"
-  },
-  {
     "course": "Second Year LLB(2023 PATTERN) Summer Session 2026",
     "date": "19- June- 2026"
   },
@@ -1056,15 +1084,15 @@
     "date": "19- June- 2026"
   },
   {
+    "course": "First Year Bachelors in Hotel Management and Catering Technology((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "19- June- 2026"
+  },
+  {
     "course": "Second Year B.A.LL.B(2023 PATTERN) Summer Session 2026",
     "date": "19- June- 2026"
   },
   {
     "course": "Third Year B.A.LL.B(2023 PATTERN) Summer Session 2026",
-    "date": "19- June- 2026"
-  },
-  {
-    "course": "First Year Bachelors in Hotel Management and Catering Technology((2025 Pattern(NEP 2020))) Summer Session 2026",
     "date": "19- June- 2026"
   },
   {
@@ -1120,15 +1148,7 @@
     "date": "15- June- 2026"
   },
   {
-    "course": "First Year B.A.LL.B(2023 PATTERN) Summer Session 2026",
-    "date": "13- June- 2026"
-  },
-  {
     "course": "First Year BACHELOR OF COMMERCE (CHOICE BASED CREDIT SYSTEM)((2019 Pattern)) Summer Session 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "First Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Summer Session 2026",
     "date": "13- June- 2026"
   },
   {
@@ -1136,7 +1156,15 @@
     "date": "13- June- 2026"
   },
   {
+    "course": "First Year BACHELOR OF BUSINESS ADMINISTRATION(2019 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
     "course": "First Year Bachelor of Business Administration(COMP. APPLI.)(2019 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
+    "course": "First Year B.A.LL.B(2023 PATTERN) Summer Session 2026",
     "date": "13- June- 2026"
   },
   {
@@ -1176,6 +1204,18 @@
     "date": "05- June- 2026"
   },
   {
+    "course": "FIRST YEAR Bachelor of Design (2023 Pattern) Winter Session 2025-Program 125",
+    "date": "05- June- 2026"
+  },
+  {
+    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025 (N+2+1)",
+    "date": "05- June- 2026"
+  },
+  {
+    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025 (N+2+1)",
+    "date": "05- June- 2026"
+  },
+  {
     "course": "First Year BACHELOR OF HOTEL MGNT. & CATERING TECH.(BHMCT)(2019 Pattern) Summer Session 2026",
     "date": "05- June- 2026"
   },
@@ -1200,18 +1240,6 @@
     "date": "05- June- 2026"
   },
   {
-    "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025 (N+2+1)",
-    "date": "05- June- 2026"
-  },
-  {
-    "course": "FIRST YEAR Bachelor of Design (2023 Pattern) Winter Session 2025-Program 125",
-    "date": "05- June- 2026"
-  },
-  {
-    "course": "First Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025 (N+2+1)",
-    "date": "05- June- 2026"
-  },
-  {
     "course": "Bachelor of library & Information Science(2020 Pattern) Winter Session 2025",
     "date": "18- May- 2026"
   },
@@ -1224,19 +1252,11 @@
     "date": "14- May- 2026"
   },
   {
+    "course": "First Year Master of Physical Education (M.P.Ed.) 2017 Pattern Winter Session 2025 -Program 125",
+    "date": "14- May- 2026"
+  },
+  {
     "course": "First Year B.Ed. - Special Education (Hearing Impaired) (2025 PATTERN) Winter Sesion 2025 -Program 125",
-    "date": "14- May- 2026"
-  },
-  {
-    "course": "First Year B.Sc. (Cyber Security) Winter Session 2025-Program 125",
-    "date": "14- May- 2026"
-  },
-  {
-    "course": "First Year B.Sc. Degree Program in Wine, Brewing and Alcohol Technology Winter Session 2025-Program 125",
-    "date": "14- May- 2026"
-  },
-  {
-    "course": "FIRST YEAR B.Sc. (Artificial Intelligence and Machine Learning)(2024 Pattern) Winter Session 2025-Program 125",
     "date": "14- May- 2026"
   },
   {
@@ -1256,7 +1276,15 @@
     "date": "14- May- 2026"
   },
   {
-    "course": "First Year Master of Physical Education (M.P.Ed.) 2017 Pattern Winter Session 2025 -Program 125",
+    "course": "First Year B.Sc. (Cyber Security) Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "First Year B.Sc. Degree Program in Wine, Brewing and Alcohol Technology Winter Session 2025-Program 125",
+    "date": "14- May- 2026"
+  },
+  {
+    "course": "FIRST YEAR B.Sc. (Artificial Intelligence and Machine Learning)(2024 Pattern) Winter Session 2025-Program 125",
     "date": "14- May- 2026"
   },
   {
@@ -1276,15 +1304,15 @@
     "date": "04- May- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((NonNEP to NEP 2020)(2019 Pattern to 2024 Pattern)) Winter Session 2025",
-    "date": "04- May- 2026"
-  },
-  {
     "course": "Second Year BACHELOR OF COMMERCE (BUSINESS MANAGEMENT)((NonNEP to NEP 2020)(2019 Pattern to 2024 Pattern)) Winter Session 2025",
     "date": "04- May- 2026"
   },
   {
     "course": "Second Year BACHELOR OF COMMERCE (COMPUTER APPLICATION)((NonNEP to NEP 2020)(2019 Pattern to 2024 Pattern)) Winter Session 2025",
+    "date": "04- May- 2026"
+  },
+  {
+    "course": "Second Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((NonNEP to NEP 2020)(2019 Pattern to 2024 Pattern)) Winter Session 2025",
     "date": "04- May- 2026"
   },
   {
@@ -1296,11 +1324,11 @@
     "date": "24- April- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF SCIENCE([(NON-NEP) to NEP 2019-2024 PATTERN)]) Winter Session 2025",
+    "course": "Second Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)([(NON-NEP) to NEP 2019-2024 PATTERN)]) Winter Session 2025",
     "date": "24- April- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF SCIENCE (BIOTECHNOLOGY)([(NON-NEP) to NEP 2019-2024 PATTERN)]) Winter Session 2025",
+    "course": "Second Year BACHELOR OF SCIENCE([(NON-NEP) to NEP 2019-2024 PATTERN)]) Winter Session 2025",
     "date": "24- April- 2026"
   },
   {
@@ -1380,11 +1408,11 @@
     "date": "20- March- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "Second Year BACHELOR OF COMMERCE (BUSINESS MANAGEMENT)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "20- March- 2026"
   },
   {
-    "course": "Second Year BACHELOR OF COMMERCE (BUSINESS MANAGEMENT)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "course": "Second Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "20- March- 2026"
   },
   {
@@ -1416,6 +1444,14 @@
     "date": "04- March- 2026"
   },
   {
+    "course": "First Year M.Sc. PHYSICS(2020 Pattern) Winter Session 2025",
+    "date": "04- March- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. PHYSICS(2020 Pattern) Winter Session 2025",
+    "date": "04- March- 2026"
+  },
+  {
     "course": "First Year M.Sc. MATHEMATICS(2019 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
@@ -1429,14 +1465,6 @@
   },
   {
     "course": "Second Year M.Sc.(Computer Science)(2019 Pattern) Winter Session 2025",
-    "date": "04- March- 2026"
-  },
-  {
-    "course": "First Year M.Sc. PHYSICS(2020 Pattern) Winter Session 2025",
-    "date": "04- March- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. PHYSICS(2020 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
   {
@@ -1624,19 +1652,19 @@
     "date": "25- June- 2025"
   },
   {
-    "course": "MA/M.Sc. GEOGRAPHY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
-    "date": "24- June- 2025"
-  },
-  {
     "course": "M.Sc. BIOTECHNOLOGY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "24- June- 2025"
   },
   {
-    "course": "M.Sc. MATHEMATICS - APRIL 2025",
-    "date": "23- June- 2025"
+    "course": "MA/M.Sc. GEOGRAPHY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "date": "24- June- 2025"
   },
   {
     "course": "M.Sc. PHYSICS - APRIL 2025",
+    "date": "23- June- 2025"
+  },
+  {
+    "course": "M.Sc. MATHEMATICS - APRIL 2025",
     "date": "23- June- 2025"
   },
   {
@@ -1672,6 +1700,10 @@
     "date": "16- June- 2025"
   },
   {
+    "course": "M.A. GEOGRAPHY - APRIL 2025",
+    "date": "14- June- 2025"
+  },
+  {
     "course": "M.Sc. BIOTECHNOLOGY - APRIL 2025",
     "date": "14- June- 2025"
   },
@@ -1681,10 +1713,6 @@
   },
   {
     "course": "BACHELOR OF BUSINESS ADMINISTRATION (REV.2013) EXAM.- APRIL 2025",
-    "date": "14- June- 2025"
-  },
-  {
-    "course": "M.A. GEOGRAPHY - APRIL 2025",
     "date": "14- June- 2025"
   },
   {
