@@ -312,10 +312,6 @@
     "date": "30- July- 2026"
   },
   {
-    "course": "S.E.(2019 Credit Pattern) Summer Session 2026",
-    "date": "30- July- 2026"
-  },
-  {
     "course": "F.E.(2019 Credit Pattern) Summer Session 2026",
     "date": "30- July- 2026"
   },
@@ -325,6 +321,10 @@
   },
   {
     "course": "First Year Engineering((2024 Pattern) - Revised) Summer Session 2026",
+    "date": "30- July- 2026"
+  },
+  {
+    "course": "S.E.(2019 Credit Pattern) Summer Session 2026",
     "date": "30- July- 2026"
   },
   {
@@ -672,22 +672,6 @@
     "date": "16- July- 2026"
   },
   {
-    "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MBA (Project Management)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "First Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
-    "course": "Second Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
     "course": "First Year MASTER OF COMPUTER APPLICATIONS (ENGG.)(2020 Pattern) Summer Session 2026",
     "date": "15- July- 2026"
   },
@@ -701,6 +685,22 @@
   },
   {
     "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MBA (Project Management)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "First Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MA((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -812,19 +812,19 @@
     "date": "13- July- 2026"
   },
   {
-    "course": "First Year M.Sc. ELECTRONICS (2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "13- July- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. ELECTRONICS (2023 Pattern (NEP 2020)) Summer Session 2026",
-    "date": "13- July- 2026"
-  },
-  {
     "course": "First Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
     "date": "13- July- 2026"
   },
   {
     "course": "Second Year M.A./M.Sc. STATISTICS(2023 PATTERN (NEP 2020)) Summer Session 2026",
+    "date": "13- July- 2026"
+  },
+  {
+    "course": "First Year M.Sc. ELECTRONICS (2023 Pattern (NEP 2020)) Summer Session 2026",
+    "date": "13- July- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. ELECTRONICS (2023 Pattern (NEP 2020)) Summer Session 2026",
     "date": "13- July- 2026"
   },
   {
@@ -1076,10 +1076,6 @@
     "date": "27- June- 2026"
   },
   {
-    "course": "Diploma in Consumer Protection Laws (2025 Pattern) Summer Session 2026",
-    "date": "27- June- 2026"
-  },
-  {
     "course": "FIRST YEAR M.Sc.(Dietetics) Winter Session 2025-Program 125",
     "date": "27- June- 2026"
   },
@@ -1105,6 +1101,10 @@
   },
   {
     "course": "FIRST YEAR M.Sc. (Food Science and Nutrition) Winter Session 2025-Program 125",
+    "date": "27- June- 2026"
+  },
+  {
+    "course": "Diploma in Consumer Protection Laws (2025 Pattern) Summer Session 2026",
     "date": "27- June- 2026"
   },
   {
@@ -1360,6 +1360,14 @@
     "date": "13- June- 2026"
   },
   {
+    "course": "PGDCM(2022 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
+    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
     "course": "DIPLOMA COURSE IN CYBER LAWS SUMMER SESSION 2026",
     "date": "13- June- 2026"
   },
@@ -1369,14 +1377,6 @@
   },
   {
     "course": "DIPLOMA IN LABOUR LAWS AND LABOUR WELFARE SUMMER SESSION 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "PGDCM(2022 Pattern) Summer Session 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
     "date": "13- June- 2026"
   },
   {
@@ -1532,16 +1532,8 @@
     "date": "24- April- 2026"
   },
   {
-    "course": "First Year M.Pharm(2019 Pattern) Winter Session 2025 - Fresh",
-    "date": "10- April- 2026"
-  },
-  {
     "course": "First Year M.Sc. PHYSICAL CHEMISTRY ((2025 Pattern (NEP 2020))) Winter Session 2025",
     "date": "03- April- 2026"
-  },
-  {
-    "course": "Second Year M.Pharm(2019 Pattern) Winter Session 2025",
-    "date": "28- March- 2026"
   },
   {
     "course": "Second Year BACHELOR OF COMMERCE (INTERNATIONAL BUSINESS)((2024 Pattern(NEP 2020))) Winter Session 2025",
@@ -1598,10 +1590,6 @@
   {
     "course": "Fourth Year B.Pharmacy(2018 Pattern) Winter Session 2025",
     "date": "24- January- 2026"
-  },
-  {
-    "course": "First Year M.Pharm(2019 Pattern) Winter Session 2025",
-    "date": "18- January- 2026"
   },
   {
     "course": "Second Year MASTER OF BUSINESS ADMINISTRATION (INFORMATION TECHNOLOGY)(REV.2020) Winter Session 2025",
@@ -1724,11 +1712,11 @@
     "date": "25- June- 2025"
   },
   {
-    "course": "M.Sc. BIOTECHNOLOGY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "course": "MA/M.Sc. GEOGRAPHY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "24- June- 2025"
   },
   {
-    "course": "MA/M.Sc. GEOGRAPHY [(NON-NEP) to NEP 2019-2023 PATTERN)]",
+    "course": "M.Sc. BIOTECHNOLOGY[(NON-NEP) to NEP 2019-2023 PATTERN)]",
     "date": "24- June- 2025"
   },
   {
@@ -1768,15 +1756,15 @@
     "date": "16- June- 2025"
   },
   {
-    "course": "M.A. GEOGRAPHY - APRIL 2025",
-    "date": "14- June- 2025"
-  },
-  {
     "course": "M.Sc. BIOTECHNOLOGY - APRIL 2025",
     "date": "14- June- 2025"
   },
   {
     "course": "M.Sc. BIOTECHNOLOGY (PATTERN 2019) - APRIL 2025",
+    "date": "14- June- 2025"
+  },
+  {
+    "course": "M.A. GEOGRAPHY - APRIL 2025",
     "date": "14- June- 2025"
   },
   {
