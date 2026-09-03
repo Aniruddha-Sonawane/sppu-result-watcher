@@ -156,11 +156,11 @@
     "date": "06- August- 2026"
   },
   {
-    "course": "FIRST YEAR M.A. Defence and Strategic Studies Winter Session 2025-Program 125",
+    "course": "FIRST YEAR Advanced Course in School Psychology (ACSP) Winter Session 2025-Program 125",
     "date": "05- August- 2026"
   },
   {
-    "course": "FIRST YEAR Advanced Course in School Psychology (ACSP) Winter Session 2025-Program 125",
+    "course": "FIRST YEAR M.A. Defence and Strategic Studies Winter Session 2025-Program 125",
     "date": "05- August- 2026"
   },
   {
@@ -356,10 +356,6 @@
     "date": "30- July- 2026"
   },
   {
-    "course": "S.E.(2019 Credit Pattern) Summer Session 2026",
-    "date": "30- July- 2026"
-  },
-  {
     "course": "F.E.(2019 Credit Pattern) Summer Session 2026",
     "date": "30- July- 2026"
   },
@@ -369,6 +365,10 @@
   },
   {
     "course": "First Year Engineering((2024 Pattern) - Revised) Summer Session 2026",
+    "date": "30- July- 2026"
+  },
+  {
+    "course": "S.E.(2019 Credit Pattern) Summer Session 2026",
     "date": "30- July- 2026"
   },
   {
@@ -440,15 +440,15 @@
     "date": "28- July- 2026"
   },
   {
-    "course": "M.E. First Year Master of Engineering(2025 Pattern) Summer Session 2026",
-    "date": "28- July- 2026"
-  },
-  {
     "course": "First Year M.A./M.Sc. STATISTICS((2025 Pattern (NEP 2020))) Summer Session 2026",
     "date": "28- July- 2026"
   },
   {
     "course": "First Year M.Sc. BIOTECHNOLOGY((2025 Pattern (NEP 2020))) Summer Session 2026",
+    "date": "28- July- 2026"
+  },
+  {
+    "course": "M.E. First Year Master of Engineering(2025 Pattern) Summer Session 2026",
     "date": "28- July- 2026"
   },
   {
@@ -596,15 +596,15 @@
     "date": "22- July- 2026"
   },
   {
-    "course": "Second Year M.Sc. MICROBIOLOGY((NON-NEP TO NEP) (2019-2023 PATTERN)) Summer Session 2026",
-    "date": "22- July- 2026"
-  },
-  {
     "course": "First Year MCom(2019 Pattern) Summer Session 2026",
     "date": "22- July- 2026"
   },
   {
     "course": "Second Year MCom(2019 Pattern) Summer Session 2026",
+    "date": "22- July- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. MICROBIOLOGY((NON-NEP TO NEP) (2019-2023 PATTERN)) Summer Session 2026",
     "date": "22- July- 2026"
   },
   {
@@ -680,11 +680,11 @@
     "date": "17- July- 2026"
   },
   {
-    "course": "First Year MBA (Project Management)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "First Year MBA (Fintech)((2025 Pattern(NEP 2020))) Summer Session 2026",
     "date": "17- July- 2026"
   },
   {
-    "course": "First Year MBA (Fintech)((2025 Pattern(NEP 2020))) Summer Session 2026",
+    "course": "First Year MBA (Project Management)((2025 Pattern(NEP 2020))) Summer Session 2026",
     "date": "17- July- 2026"
   },
   {
@@ -732,10 +732,6 @@
     "date": "15- July- 2026"
   },
   {
-    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Summer Session 2026",
-    "date": "15- July- 2026"
-  },
-  {
     "course": "First Year MBA (Project Management)((2024 Pattern(NEP 2020))) Winter Session 2025",
     "date": "15- July- 2026"
   },
@@ -749,6 +745,10 @@
   },
   {
     "course": "Second Year MBA (Digital Marketing)((2024 Pattern(NEP 2020))) Summer Session 2026",
+    "date": "15- July- 2026"
+  },
+  {
+    "course": "Second Year MBA (Fintech)((2024 Pattern(NEP 2020))) Summer Session 2026",
     "date": "15- July- 2026"
   },
   {
@@ -1404,6 +1404,14 @@
     "date": "13- June- 2026"
   },
   {
+    "course": "PGDCM(2022 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
+    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
+    "date": "13- June- 2026"
+  },
+  {
     "course": "DIPLOMA COURSE IN CYBER LAWS SUMMER SESSION 2026",
     "date": "13- June- 2026"
   },
@@ -1413,14 +1421,6 @@
   },
   {
     "course": "DIPLOMA IN LABOUR LAWS AND LABOUR WELFARE SUMMER SESSION 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "PGDCM(2022 Pattern) Summer Session 2026",
-    "date": "13- June- 2026"
-  },
-  {
-    "course": "POST GRADUATE DIPLOMA IN HOSPITAL MANAGEMENT(2019 Pattern) Summer Session 2026",
     "date": "13- June- 2026"
   },
   {
@@ -1584,18 +1584,6 @@
     "date": "20- March- 2026"
   },
   {
-    "course": "Second Year M.A./M.Sc. in Statistics(2019 Pattern) Winter Session 2025",
-    "date": "18- March- 2026"
-  },
-  {
-    "course": "First Year M.Sc. ENVIRONMENTAL SCIENCE(2019 Pattern) Winter Session 2025",
-    "date": "04- March- 2026"
-  },
-  {
-    "course": "Second Year M.Sc. ENVIRONMENTAL SCIENCE(2019 Pattern) Winter Session 2025",
-    "date": "04- March- 2026"
-  },
-  {
     "course": "First Year M.Sc. MATHEMATICS(2019 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
@@ -1609,6 +1597,14 @@
   },
   {
     "course": "Second Year M.Sc. PHYSICS(2020 Pattern) Winter Session 2025",
+    "date": "04- March- 2026"
+  },
+  {
+    "course": "First Year M.Sc. ENVIRONMENTAL SCIENCE(2019 Pattern) Winter Session 2025",
+    "date": "04- March- 2026"
+  },
+  {
+    "course": "Second Year M.Sc. ENVIRONMENTAL SCIENCE(2019 Pattern) Winter Session 2025",
     "date": "04- March- 2026"
   },
   {
